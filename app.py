@@ -1,68 +1,40 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
 import joblib
-import logging
-
-# Set up logging
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
-
 import os
-
-# List files in the current directory
-st.write('Current directory contents:', os.listdir())
-
-# Check if the model file exists
-if os.path.exists('random_forest_model.joblib'):
-    st.write('Model file found.')
-else:
-    st.write('Model file not found.')
-
-# Check if the data file exists
-if os.path.exists('combined_dataset1-1300.csv'):
-    st.write('Data file found.')
-else:
-    st.write('Data file not found.')
-
-
-# Load the model
-@st.cache(allow_output_mutation=True)
-def load_model():
-    try:
-        model = joblib.load('random_forest_model.joblib')
-        logging.info("Model loaded successfully.")
-        return model
-    except FileNotFoundError:
-        logging.error("Model file not found.")
-        st.error("Model file not found.")
-        return None
-    except Exception as e:
-        logging.error(f"An error occurred while loading the model: {e}")
-        st.error(f"Failed to load model: {e}")
-        return None
-
-model = load_model()
-
-# Load the dataset
-@st.cache(allow_output_mutation=True)
-def get_data():
-    logging.info("Loading data...")
-    try:
-        data = pd.read_csv('combined_dataset1-1300.csv')
-        logging.info("Data loaded successfully.")
-        return data
-    except FileNotFoundError:
-        logging.error("Data file not found.")
-        st.error("Data file not found.")
-        return None
-    except Exception as e:
-        logging.error(f"An error occurred while loading data: {e}")
-        st.error(f"Failed to load data: {e}")
-        return None
-
-data = get_data()
 
 st.title('Hourly Rate Prediction')
 
+# Check and display current directory and files
+st.write('Current directory:', os.getcwd())
+st.write('Directory contents:', os.listdir())
+
+# Function to load the trained model
+def load_model():
+    try:
+        model = joblib.load('random_forest_model.joblib')
+        st.write("Model loaded successfully.")
+        return model
+    except Exception as e:
+        st.error(f"Failed to load model: {e}")
+        return None
+
+# Function to load data
+def load_data():
+    try:
+        data = pd.read_csv('combined_dataset1-1300.csv')
+        st.write("Data loaded successfully.")
+        return data
+    except Exception as e:
+        st.error(f"Failed to load data: {e}")
+        return None
+
+# Load model and data
+model = load_model()
+data = load_data()
+
+# Proceed only if data and model are loaded successfully
 if data is not None and model is not None:
     job_title_options = data['Job Title'].unique()
     description_options = data['Description'].unique()
@@ -78,23 +50,19 @@ if data is not None and model is not None:
     spent = st.number_input('Budget Spent ($)', min_value=0.0, value=1000.0, format='%.2f')
 
     if st.button('Predict Hourly Rate'):
-        # Create DataFrame for prediction
-        input_data = pd.DataFrame({
-            'Job Title': [job_title],
-            'Description': [description],
-            'Technical_Tool': [technical_tool],
-            'Client_Country': [client_country],
-            'Applicants_Num': [applicants_num],
-            'EX_level_demand': [1 if ex_level_demand == 'Entry Level' else 2 if ex_level_demand == 'Intermediate' else 3],
-            'Spent($)': [spent]
-        })
-
-        # Make prediction
         try:
+            input_data = pd.DataFrame({
+                'Job Title': [job_title],
+                'Description': [description],
+                'Technical_Tool': [technical_tool],
+                'Client_Country': [client_country],
+                'Applicants_Num': [applicants_num],
+                'EX_level_demand': [1 if ex_level_demand == 'Entry Level' else 2 if ex_level_demand == 'Intermediate' else 3],
+                'Spent($)': [spent]
+            })
             prediction = model.predict(input_data)
             st.write(f'The predicted hourly rate is ${prediction[0]:.2f}')
         except Exception as e:
             st.error(f"Prediction failed: {e}")
-            logging.error(f"Prediction error: {e}")
 else:
     st.error("Required data or model is not available.")

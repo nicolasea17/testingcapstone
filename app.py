@@ -1,25 +1,28 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 import joblib
 import logging
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
+# Load the model
+@st.cache(allow_output_mutation=True)
 def load_model():
     try:
         model = joblib.load('random_forest_model.joblib')
-        st.write("Model loaded successfully.")
+        logging.info("Model loaded successfully.")
         return model
+    except FileNotFoundError:
+        logging.error("Model file not found.")
+        st.error("Model file not found.")
+        return None
     except Exception as e:
+        logging.error(f"An error occurred while loading the model: {e}")
         st.error(f"Failed to load model: {e}")
         return None
 
 model = load_model()
-
-
-st.title('Hourly Rate Prediction')
 
 # Load the dataset
 @st.cache(allow_output_mutation=True)
@@ -31,14 +34,18 @@ def get_data():
         return data
     except FileNotFoundError:
         logging.error("Data file not found.")
+        st.error("Data file not found.")
         return None
     except Exception as e:
         logging.error(f"An error occurred while loading data: {e}")
+        st.error(f"Failed to load data: {e}")
         return None
 
 data = get_data()
 
-if data is not None:
+st.title('Hourly Rate Prediction')
+
+if data is not None and model is not None:
     job_title_options = data['Job Title'].unique()
     description_options = data['Description'].unique()
     technical_tool_options = data['Technical_Tool'].unique()
@@ -53,20 +60,23 @@ if data is not None:
     spent = st.number_input('Budget Spent ($)', min_value=0.0, value=1000.0, format='%.2f')
 
     if st.button('Predict Hourly Rate'):
-        if model is not None:
-    try:
-        # Example input based on your described features
+        # Create DataFrame for prediction
         input_data = pd.DataFrame({
-            'Job Title': ['Application Development'],  # example category
-            'Description': ['Energy and Utilities'],  # example category
-            'Technical_Tool': ['Balsamiq'],  # example category
-            'Client_Country': ['Canada'],  # example category
-            'Applicants_Num': [5],  # example number
-            'EX_level_demand': [2],  # 1 for 'Entry Level', 2 for 'Intermediate', 3 for 'Expert'
-            'Spent($)': [1000.0]  # example number
+            'Job Title': [job_title],
+            'Description': [description],
+            'Technical_Tool': [technical_tool],
+            'Client_Country': [client_country],
+            'Applicants_Num': [applicants_num],
+            'EX_level_demand': [1 if ex_level_demand == 'Entry Level' else 2 if ex_level_demand == 'Intermediate' else 3],
+            'Spent($)': [spent]
         })
-        prediction = model.predict(input_data)
-        st.write(f'The predicted hourly rate is ${prediction[0]:.2f}')
-    except Exception as e:
-        st.error(f"Prediction failed: {e}")
 
+        # Make prediction
+        try:
+            prediction = model.predict(input_data)
+            st.write(f'The predicted hourly rate is ${prediction[0]:.2f}')
+        except Exception as e:
+            st.error(f"Prediction failed: {e}")
+            logging.error(f"Prediction error: {e}")
+else:
+    st.error("Required data or model is not available.")

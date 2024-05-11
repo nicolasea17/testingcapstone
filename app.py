@@ -7,21 +7,17 @@ import logging
 # Set up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Function to load the trained model
 def load_model():
-    logging.info("Attempting to load the model...")
     try:
         model = joblib.load('random_forest_model.joblib')
-        logging.info("Model loaded successfully.")
+        st.write("Model loaded successfully.")
         return model
-    except FileNotFoundError:
-        logging.error("Model file not found.")
-        return None
     except Exception as e:
-        logging.error(f"An error occurred while loading the model: {e}")
+        st.error(f"Failed to load model: {e}")
         return None
 
 model = load_model()
+
 
 st.title('Hourly Rate Prediction')
 
@@ -58,25 +54,19 @@ if data is not None:
 
     if st.button('Predict Hourly Rate'):
         if model is not None:
-            # Create DataFrame for prediction
-            input_data = pd.DataFrame({
-                'Job Title': [job_title],
-                'Description': [description],
-                'Technical_Tool': [technical_tool],
-                'Client_Country': [client_country],
-                'Applicants_Num': [applicants_num],
-                'EX_level_demand': [1 if ex_level_demand == 'Entry Level' else 2 if ex_level_demand == 'Intermediate' else 3],
-                'Spent($)': [spent]
-            })
+    try:
+        # Example input based on your described features
+        input_data = pd.DataFrame({
+            'Job Title': ['Application Development'],  # example category
+            'Description': ['Energy and Utilities'],  # example category
+            'Technical_Tool': ['Balsamiq'],  # example category
+            'Client_Country': ['Canada'],  # example category
+            'Applicants_Num': [5],  # example number
+            'EX_level_demand': [2],  # 1 for 'Entry Level', 2 for 'Intermediate', 3 for 'Expert'
+            'Spent($)': [1000.0]  # example number
+        })
+        prediction = model.predict(input_data)
+        st.write(f'The predicted hourly rate is ${prediction[0]:.2f}')
+    except Exception as e:
+        st.error(f"Prediction failed: {e}")
 
-            # Make prediction
-            try:
-                prediction = model.predict(input_data)
-                st.write(f'The predicted hourly rate is ${prediction[0]:.2f}')
-            except Exception as e:
-                st.error(f"An error occurred during prediction: {e}")
-                logging.error(f"Prediction error: {e}")
-        else:
-            st.error("Model is not loaded. Please check the logs.")
-else:
-    st.error("Data is not loaded. Please check the logs.")

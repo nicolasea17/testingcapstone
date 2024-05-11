@@ -3,8 +3,17 @@ import pandas as pd
 import numpy as np
 import joblib
 
-# Load the trained model
-model = joblib.load('random_forest_model.joblib')
+# Load models and preprocessors
+@st.cache_resource
+def load_models():
+    logging.info("Loading models...")
+    try:
+        model = joblib.load('random_forest_model.joblib')
+        logging.info("All models loaded successfully.")
+        return model, kmeans, preprocessor
+    except Exception as e:
+        logging.error(f"Error loading models: {e}")
+        return None, None, None
 
 st.title('Hourly Rate Prediction')
 

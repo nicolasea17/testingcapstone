@@ -6,6 +6,24 @@ import logging
 # Set up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
+import os
+
+# List files in the current directory
+st.write('Current directory contents:', os.listdir())
+
+# Check if the model file exists
+if os.path.exists('random_forest_model.joblib'):
+    st.write('Model file found.')
+else:
+    st.write('Model file not found.')
+
+# Check if the data file exists
+if os.path.exists('combined_dataset1-1300.csv'):
+    st.write('Data file found.')
+else:
+    st.write('Data file not found.')
+
+
 # Load the model
 @st.cache(allow_output_mutation=True)
 def load_model():

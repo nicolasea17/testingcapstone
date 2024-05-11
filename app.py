@@ -3,6 +3,15 @@ import pandas as pd
 import numpy as np
 import joblib
 
+
+# Attempt to load the model
+try:
+    model = joblib.load('random_forest_model.joblib')
+    print("Model loaded successfully!")
+except Exception as e:
+    print(f"Failed to load model: {e}")
+
+
 # Load the model and preprocessor
 model = joblib.load('random_forest_model.joblib')
 

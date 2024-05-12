@@ -1,0 +1,1301 @@
+Job Type,EX_level_demand,Industry,Technical_Tool,Competitive Level,Client_Country,Hourly_Rate
+Application Development,Intermediate,Energy and Utilities,Balsamiq,Uncompetitive,Canada,16.0
+Web Scraping,Intermediate,Automotive,WebHarvy,Uncompetitive,Indonesia,17.0
+Application Development,Intermediate,Small Business/Local Business,Figma,Competitive,Germany,21.0
+Website Development,Entry Level,Non-Profit and NGOs,Ruby on Rails,Competitive,Australia,6.0
+Application Development,Intermediate,Real Estate,Balsamiq,Competitive,United Arab Emirates,32.0
+Application Development,Intermediate,Retail (Non-E-commerce),Balsamiq,Extremely Competitive,Switzerland,30.0
+Website Development,Expert,Real Estate,Next.js,Competitive,Israel,19.0
+Application Development,Entry Level,Small Business/Local Business,Balsamiq,Extremely Competitive,China,17.0
+Web Scraping,Intermediate,Real Estate,OutWit Hub,Uncompetitive,United Arab Emirates,27.0
+Web Scraping,Intermediate,Non-Profit and NGOs,OutWit Hub,Competitive,Israel,18.0
+Application Development,Intermediate,E-Commerce,Figma,Extremely Competitive,Netherlands,25.0
+Web Scraping,Intermediate,Telecommunications,OutWit Hub,Extremely Competitive,Spain,23.0
+Web Scraping,Entry Level,Automotive,OutWit Hub,Extremely Competitive,South Korea,22.0
+Application Development,Expert,Manufacturing and Industrial,Proto.io,Extremely Competitive,Japan,24.0
+Web Scraping,Entry Level,Energy and Utilities,DataMiner,Competitive,Japan,19.0
+Website Development,Expert,Energy and Utilities,WordPress,Uncompetitive,India,18.0
+Website Development,Intermediate,Real Estate,Flutter,Competitive,Israel,20.0
+Web Scraping,Entry Level,Finance and Banking,Scrapy,Competitive,South Korea,22.0
+Web Scraping,Expert,Retail (Non-E-commerce),OutWit Hub,Uncompetitive,Thailand,26.0
+Website Development,Expert,Energy and Utilities,Flutter,Extremely Competitive,Israel,20.0
+Web Scraping,Entry Level,Media and Entertainment,Scrapy,Competitive,China,12.0
+Website Development,Expert,Small Business/Local Business,Next.js,Competitive,Israel,20.0
+Application Development,Expert,Non-Profit and NGOs,Figma,Uncompetitive,South Korea,27.0
+Web Scraping,Expert,Insurance,WebHarvy,Competitive,South Korea,22.0
+Website Development,Intermediate,Telecommunications,Laravel,Competitive,Brazil,12.0
+Web Scraping,Entry Level,Healthcare,DataMiner,Extremely Competitive,Thailand,26.0
+Application Development,Intermediate,Insurance,Sketch,Uncompetitive,Canada,16.0
+Web Scraping,Intermediate,Telecommunications,Octoparse,Extremely Competitive,India,16.0
+Application Development,Intermediate,Construction and Engineering,UXPin,Extremely Competitive,Netherlands,25.0
+Web Scraping,Intermediate,Non-Profit and NGOs,OutWit Hub,Competitive,Russia,21.0
+Website Development,Intermediate,Energy and Utilities,TypeScript,Extremely Competitive,Austria,10.0
+Web Scraping,Intermediate,Personal Blogs/Portfolios,WebHarvy,Competitive,Mexico,19.0
+Website Development,Entry Level,Hospitality and Travel,Visual Studio Code,Extremely Competitive,Japan,21.0
+Website Development,Intermediate,Automotive,Bootstrap,Extremely Competitive,Norway,22.0
+Web Scraping,Entry Level,Media and Entertainment,DataMiner,Competitive,Norway,20.0
+Web Scraping,Intermediate,Healthcare,WebHarvy,Uncompetitive,Thailand,25.0
+Application Development,Intermediate,Government,Affinity Designer,Competitive,United Arab Emirates,32.0
+Website Development,Expert,Finance and Banking,Flutter,Uncompetitive,Belgium,10.0
+Application Development,Intermediate,Non-Profit and NGOs,Proto.io,Competitive,Italy,23.0
+Web Scraping,Intermediate,Energy and Utilities,Selenium,Competitive,Russia,21.0
+Website Development,Intermediate,Retail (Non-E-commerce),Django,Uncompetitive,Canada,13.0
+Application Development,Intermediate,Insurance,Axure,Competitive,Japan,24.0
+Application Development,Entry Level,Education,Adobe XD,Competitive,India,21.0
+Web Scraping,Intermediate,Healthcare,DataMiner,Competitive,China,13.0
+Website Development,Entry Level,Government,TypeScript,Competitive,France,17.0
+Website Development,Entry Level,Finance and Banking,Node.js,Competitive,Argentina,6.0
+Website Development,Expert,Small Business/Local Business,Express.js,Uncompetitive,Indonesia,19.0
+Web Scraping,Intermediate,Telecommunications,Selenium,Competitive,Norway,20.0
+Application Development,Intermediate,E-Commerce,Marvel,Competitive,Italy,23.0
+Website Development,Intermediate,Finance and Banking,Next.js,Extremely Competitive,Germany,18.0
+Web Scraping,Expert,Education,Import.io,Competitive,Netherlands,20.0
+Application Development,Expert,Professional Services,Marvel,Uncompetitive,United States,36.0
+Website Development,Intermediate,Small Business/Local Business,Ruby on Rails,Competitive,Argentina,5.0
+Application Development,Expert,Government,UXPin,Competitive,Sweden,28.0
+Web Scraping,Intermediate,Small Business/Local Business,DataMiner,Competitive,Netherlands,20.0
+Web Scraping,Entry Level,Non-Profit and NGOs,Beautiful Soup,Uncompetitive,Indonesia,17.0
+Web Scraping,Intermediate,Insurance,Mozenda,Competitive,Netherlands,20.0
+Application Development,Entry Level,Hospitality and Travel,InVision,Competitive,India,21.0
+Website Development,Intermediate,E-Commerce,Ruby on Rails,Competitive,China,14.0
+Website Development,Entry Level,Manufacturing and Industrial,Express.js,Competitive,India,18.0
+Website Development,Entry Level,Healthcare,Next.js,Competitive,Netherlands,22.0
+Website Development,Entry Level,E-Commerce,Node.js,Uncompetitive,Argentina,3.0
+Application Development,Entry Level,Real Estate,Axure,Extremely Competitive,Japan,24.0
+Application Development,Expert,Government,UXPin,Competitive,South Africa,27.0
+Web Scraping,Entry Level,Non-Profit and NGOs,Beautiful Soup,Extremely Competitive,China,14.0
+Website Development,Intermediate,Automotive,TypeScript,Competitive,Germany,17.0
+Website Development,Intermediate,Education,Next.js,Competitive,China,14.0
+Website Development,Intermediate,Professional Services,Django,Competitive,China,15.0
+Web Scraping,Expert,Hospitality and Travel,OutWit Hub,Uncompetitive,Russia,21.0
+Website Development,Expert,Education,Bootstrap,Competitive,Russia,23.0
+Application Development,Intermediate,Retail (Non-E-commerce),Affinity Designer,Uncompetitive,Switzerland,29.0
+Application Development,Intermediate,Hospitality and Travel,Balsamiq,Extremely Competitive,Italy,23.0
+Application Development,Intermediate,E-Commerce,Axure,Extremely Competitive,Italy,23.0
+Web Scraping,Expert,Technology and SaaS,ParseHub,Competitive,South Korea,22.0
+Website Development,Entry Level,Energy and Utilities,Bootstrap,Competitive,Italy,20.0
+Web Scraping,Intermediate,Retail (Non-E-commerce),Octoparse,Uncompetitive,United Kingdom,27.0
+Application Development,Entry Level,Finance and Banking,Adobe XD,Competitive,France,19.0
+Website Development,Intermediate,Construction and Engineering,Bootstrap,Competitive,South Korea,25.0
+Website Development,Expert,Government,Squarespace,Competitive,United Kingdom,31.0
+Web Scraping,Intermediate,Technology and SaaS,ParseHub,Competitive,Australia,7.0
+Web Scraping,Intermediate,Construction and Engineering,Mozenda,Extremely Competitive,Russia,21.0
+Application Development,Expert,Automotive,Marvel,Competitive,Turkey,31.0
+Web Scraping,Intermediate,Technology and SaaS,WebHarvy,Uncompetitive,Mexico,19.0
+Web Scraping,Expert,Professional Services,Mozenda,Competitive,Italy,18.0
+Application Development,Intermediate,Construction and Engineering,InVision,Extremely Competitive,Thailand,30.0
+Application Development,Entry Level,E-Commerce,Proto.io,Extremely Competitive,Mexico,24.0
+Application Development,Entry Level,Insurance,Figma,Competitive,India,21.0
+Website Development,Intermediate,Non-Profit and NGOs,Django,Extremely Competitive,Canada,13.0
+Application Development,Expert,Non-Profit and NGOs,Balsamiq,Extremely Competitive,Switzerland,29.0
+Application Development,Intermediate,Technology and SaaS,Proto.io,Competitive,India,22.0
+Application Development,Intermediate,Small Business/Local Business,Proto.io,Extremely Competitive,United Kingdom,33.0
+Web Scraping,Entry Level,Hospitality and Travel,ParseHub,Extremely Competitive,South Korea,23.0
+Application Development,Entry Level,Personal Blogs/Portfolios,Figma,Competitive,Italy,23.0
+Application Development,Entry Level,Telecommunications,Figma,Competitive,Brazil,15.0
+Website Development,Expert,Government,Figma,Uncompetitive,Saudi Arabia,23.0
+Website Development,Intermediate,E-Commerce,Next.js,Extremely Competitive,China,15.0
+Application Development,Expert,Hospitality and Travel,Axure,Competitive,Netherlands,25.0
+Application Development,Entry Level,Government,Proto.io,Competitive,Germany,21.0
+Web Scraping,Intermediate,Automotive,OutWit Hub,Competitive,Switzerland,25.0
+Application Development,Intermediate,Manufacturing and Industrial,Balsamiq,Competitive,Saudi Arabia,26.0
+Application Development,Intermediate,Healthcare,Axure,Competitive,Switzerland,29.0
+Web Scraping,Entry Level,Media and Entertainment,Import.io,Competitive,Netherlands,20.0
+Application Development,Intermediate,Healthcare,Proto.io,Competitive,Sweden,29.0
+Application Development,Expert,Education,Marvel,Competitive,Mexico,24.0
+Application Development,Intermediate,Automotive,Balsamiq,Extremely Competitive,Saudi Arabia,27.0
+Application Development,Expert,Small Business/Local Business,Balsamiq,Competitive,Italy,23.0
+Website Development,Intermediate,E-Commerce,TypeScript,Competitive,Australia,8.0
+Website Development,Intermediate,Manufacturing and Industrial,Visual Studio Code,Competitive,Netherlands,22.0
+Web Scraping,Expert,Energy and Utilities,Mozenda,Competitive,South Korea,23.0
+Web Scraping,Entry Level,Real Estate,OutWit Hub,Competitive,South Korea,23.0
+Web Scraping,Intermediate,Media and Entertainment,WebHarvy,Competitive,Canada,11.0
+Website Development,Expert,Small Business/Local Business,WordPress,Extremely Competitive,Italy,20.0
+Website Development,Intermediate,Finance and Banking,Ruby on Rails,Uncompetitive,Belgium,11.0
+Application Development,Intermediate,E-Commerce,UXPin,Extremely Competitive,United States,34.0
+Web Scraping,Entry Level,Insurance,DataMiner,Extremely Competitive,Turkey,26.0
+Website Development,Intermediate,Insurance,Angular,Uncompetitive,Belgium,11.0
+Web Scraping,Expert,Insurance,Mozenda,Competitive,Canada,11.0
+Application Development,Intermediate,Retail (Non-E-commerce),Marvel,Competitive,Thailand,30.0
+Application Development,Intermediate,Retail (Non-E-commerce),Axure,Uncompetitive,Spain,28.0
+Web Scraping,Intermediate,Media and Entertainment,Import.io,Extremely Competitive,China,13.0
+Website Development,Expert,Professional Services,Bootstrap,Competitive,France,16.0
+Website Development,Expert,Insurance,Django,Competitive,Brazil,12.0
+Application Development,Intermediate,Media and Entertainment,Balsamiq,Competitive,China,18.0
+Website Development,Intermediate,Personal Blogs/Portfolios,Flutter,Competitive,Italy,20.0
+Web Scraping,Intermediate,Automotive,Octoparse,Competitive,United Kingdom,27.0
+Website Development,Expert,Automotive,Figma,Competitive,Poland,22.0
+Application Development,Expert,Professional Services,Affinity Designer,Uncompetitive,United States,34.0
+Web Scraping,Intermediate,Telecommunications,OutWit Hub,Competitive,China,12.0
+Application Development,Entry Level,Government,Affinity Designer,Uncompetitive,United States,35.0
+Website Development,Expert,Manufacturing and Industrial,TypeScript,Competitive,Australia,10.0
+Application Development,Entry Level,Government,Axure,Competitive,Norway,25.0
+Web Scraping,Expert,Professional Services,Scrapy,Competitive,Netherlands,20.0
+Web Scraping,Expert,Technology and SaaS,DataMiner,Uncompetitive,Canada,11.0
+Application Development,Expert,Personal Blogs/Portfolios,UXPin,Extremely Competitive,Spain,28.0
+Website Development,Expert,Retail (Non-E-commerce),Figma,Competitive,Sweden,26.0
+Web Scraping,Intermediate,E-Commerce,Import.io,Competitive,Sweden,24.0
+Website Development,Expert,Insurance,Vue.js,Competitive,Brazil,11.0
+Application Development,Entry Level,Healthcare,Adobe XD,Competitive,Italy,23.0
+Website Development,Entry Level,Energy and Utilities,Laravel,Competitive,India,18.0
+Web Scraping,Intermediate,Professional Services,Selenium,Uncompetitive,Brazil,10.0
+Application Development,Intermediate,Retail (Non-E-commerce),UXPin,Competitive,United Kingdom,33.0
+Application Development,Intermediate,Construction and Engineering,UXPin,Uncompetitive,Russia,26.0
+Website Development,Entry Level,Real Estate,Laravel,Competitive,Indonesia,19.0
+Website Development,Expert,Manufacturing and Industrial,Flutter,Competitive,Italy,20.0
+Application Development,Intermediate,Personal Blogs/Portfolios,UXPin,Competitive,Spain,28.0
+Application Development,Intermediate,Personal Blogs/Portfolios,Figma,Extremely Competitive,Germany,21.0
+Website Development,Intermediate,Hospitality and Travel,TypeScript,Competitive,Germany,17.0
+Website Development,Entry Level,Personal Blogs/Portfolios,Next.js,Competitive,France,16.0
+Web Scraping,Expert,Energy and Utilities,WebHarvy,Competitive,Netherlands,20.0
+Application Development,Entry Level,Automotive,Marvel,Competitive,Netherlands,25.0
+Web Scraping,Intermediate,Personal Blogs/Portfolios,Beautiful Soup,Extremely Competitive,Spain,23.0
+Application Development,Expert,Healthcare,InVision,Uncompetitive,Switzerland,29.0
+Application Development,Entry Level,Non-Profit and NGOs,Sketch,Competitive,China,18.0
+Website Development,Expert,E-Commerce,Visual Studio Code,Extremely Competitive,Mexico,22.0
+Website Development,Expert,Education,WordPress,Uncompetitive,Saudi Arabia,24.0
+Website Development,Expert,Personal Blogs/Portfolios,Flutter,Extremely Competitive,Japan,21.0
+Website Development,Expert,Non-Profit and NGOs,Bootstrap,Competitive,Italy,20.0
+Website Development,Entry Level,Real Estate,Flutter,Competitive,Germany,17.0
+Application Development,Entry Level,Energy and Utilities,InVision,Competitive,Australia,12.0
+Website Development,Entry Level,Hospitality and Travel,Bootstrap,Competitive,China,16.0
+Web Scraping,Expert,Hospitality and Travel,OutWit Hub,Competitive,Netherlands,20.0
+Web Scraping,Entry Level,Media and Entertainment,Octoparse,Competitive,India,16.0
+Web Scraping,Intermediate,Small Business/Local Business,Scrapy,Competitive,Spain,23.0
+Web Scraping,Intermediate,Retail (Non-E-commerce),Import.io,Competitive,Saudi Arabia,21.0
+Web Scraping,Entry Level,Retail (Non-E-commerce),Scrapy,Competitive,United States,29.0
+Application Development,Expert,Construction and Engineering,Proto.io,Competitive,United Arab Emirates,32.0
+Web Scraping,Expert,Telecommunications,Scrapy,Competitive,Saudi Arabia,22.0
+Website Development,Expert,Non-Profit and NGOs,Django,Uncompetitive,Brazil,12.0
+Website Development,Intermediate,Finance and Banking,Laravel,Uncompetitive,Austria,10.0
+Website Development,Expert,Government,Visual Studio Code,Uncompetitive,Russia,23.0
+Web Scraping,Intermediate,Professional Services,DataMiner,Competitive,South Korea,22.0
+Web Scraping,Entry Level,Small Business/Local Business,Import.io,Competitive,Israel,17.0
+Web Scraping,Entry Level,Automotive,ParseHub,Extremely Competitive,Thailand,25.0
+Website Development,Intermediate,Media and Entertainment,Ruby on Rails,Competitive,Austria,10.0
+Web Scraping,Expert,Telecommunications,Octoparse,Competitive,Russia,21.0
+Website Development,Intermediate,Government,Django,Competitive,Brazil,13.0
+Website Development,Entry Level,Insurance,Vue.js,Competitive,Argentina,3.0
+Application Development,Expert,Manufacturing and Industrial,UXPin,Competitive,Mexico,24.0
+Website Development,Expert,Retail (Non-E-commerce),Drupal,Extremely Competitive,South Africa,24.0
+Website Development,Expert,Real Estate,Express.js,Competitive,Indonesia,19.0
+Application Development,Expert,Small Business/Local Business,Balsamiq,Competitive,Mexico,24.0
+Website Development,Intermediate,Manufacturing and Industrial,Vue.js,Competitive,Argentina,5.0
+Web Scraping,Expert,Non-Profit and NGOs,Octoparse,Competitive,Turkey,26.0
+Application Development,Intermediate,Real Estate,InVision,Competitive,Switzerland,29.0
+Web Scraping,Expert,Real Estate,Scrapy,Competitive,United States,35.0
+Web Scraping,Expert,Retail (Non-E-commerce),Scrapy,Uncompetitive,South Korea,22.0
+Web Scraping,Entry Level,Manufacturing and Industrial,Beautiful Soup,Competitive,Saudi Arabia,21.0
+Website Development,Intermediate,Manufacturing and Industrial,Laravel,Extremely Competitive,China,14.0
+Web Scraping,Intermediate,Education,DataMiner,Extremely Competitive,China,12.0
+Application Development,Intermediate,Real Estate,UXPin,Uncompetitive,United Arab Emirates,32.0
+Web Scraping,Expert,Education,Import.io,Competitive,South Korea,23.0
+Website Development,Intermediate,Hospitality and Travel,Next.js,Competitive,Netherlands,22.0
+Website Development,Intermediate,Insurance,Django,Competitive,Australia,8.0
+Application Development,Entry Level,Manufacturing and Industrial,Balsamiq,Extremely Competitive,United Arab Emirates,32.0
+Website Development,Entry Level,Manufacturing and Industrial,Ruby on Rails,Competitive,Belgium,11.0
+Application Development,Intermediate,E-Commerce,InVision,Competitive,South Korea,27.0
+Web Scraping,Entry Level,Non-Profit and NGOs,ParseHub,Competitive,France,14.0
+Application Development,Expert,E-Commerce,InVision,Competitive,Italy,23.0
+Website Development,Entry Level,Retail (Non-E-commerce),Next.js,Uncompetitive,Mexico,22.0
+Website Development,Expert,Personal Blogs/Portfolios,Drupal,Extremely Competitive,Spain,25.0
+Web Scraping,Entry Level,Technology and SaaS,Mozenda,Competitive,Russia,21.0
+Application Development,Expert,Finance and Banking,Figma,Competitive,Russia,26.0
+Web Scraping,Entry Level,E-Commerce,OutWit Hub,Uncompetitive,Indonesia,17.0
+Website Development,Expert,Retail (Non-E-commerce),Figma,Uncompetitive,Russia,23.0
+Web Scraping,Intermediate,Government,WebHarvy,Competitive,Italy,18.0
+Web Scraping,Intermediate,Healthcare,Scrapy,Uncompetitive,Germany,15.0
+Application Development,Expert,Energy and Utilities,Axure,Competitive,Saudi Arabia,26.0
+Application Development,Entry Level,Finance and Banking,UXPin,Extremely Competitive,Japan,24.0
+Website Development,Intermediate,Telecommunications,Ruby on Rails,Uncompetitive,Australia,7.0
+Web Scraping,Expert,Government,Import.io,Competitive,United Arab Emirates,27.0
+Website Development,Entry Level,Retail (Non-E-commerce),Flutter,Competitive,France,16.0
+Application Development,Intermediate,E-Commerce,Marvel,Competitive,France,19.0
+Application Development,Expert,Automotive,Affinity Designer,Uncompetitive,United States,36.0
+Website Development,Entry Level,Technology and SaaS,Ruby on Rails,Competitive,Canada,14.0
+Website Development,Entry Level,E-Commerce,Angular,Extremely Competitive,Brazil,13.0
+Website Development,Entry Level,Retail (Non-E-commerce),Angular,Extremely Competitive,Brazil,13.0
+Web Scraping,Entry Level,Automotive,Scrapy,Extremely Competitive,Mexico,20.0
+Website Development,Entry Level,Personal Blogs/Portfolios,TypeScript,Competitive,Indonesia,19.0
+Application Development,Entry Level,Real Estate,Affinity Designer,Extremely Competitive,Thailand,31.0
+Web Scraping,Entry Level,Media and Entertainment,Import.io,Competitive,Brazil,10.0
+Web Scraping,Expert,Technology and SaaS,Octoparse,Competitive,Japan,19.0
+Website Development,Intermediate,E-Commerce,React.js,Competitive,Argentina,6.0
+Application Development,Entry Level,Real Estate,Affinity Designer,Uncompetitive,United States,35.0
+Web Scraping,Expert,Telecommunications,OutWit Hub,Competitive,Canada,12.0
+Website Development,Expert,Energy and Utilities,Django,Extremely Competitive,China,15.0
+Application Development,Expert,Automotive,Affinity Designer,Competitive,United Kingdom,33.0
+Website Development,Expert,Manufacturing and Industrial,TypeScript,Competitive,India,18.0
+Website Development,Entry Level,Small Business/Local Business,Flutter,Competitive,Brazil,11.0
+Application Development,Expert,Insurance,Affinity Designer,Extremely Competitive,Thailand,31.0
+Website Development,Expert,Personal Blogs/Portfolios,Express.js,Competitive,Russia,23.0
+Application Development,Expert,Small Business/Local Business,Balsamiq,Competitive,Spain,28.0
+Application Development,Intermediate,Telecommunications,Marvel,Uncompetitive,China,18.0
+Web Scraping,Entry Level,Professional Services,WebHarvy,Competitive,Mexico,19.0
+Website Development,Intermediate,Non-Profit and NGOs,Django,Competitive,Australia,8.0
+Application Development,Intermediate,Insurance,Balsamiq,Uncompetitive,Germany,21.0
+Web Scraping,Intermediate,Education,Octoparse,Competitive,France,14.0
+Web Scraping,Intermediate,Insurance,Import.io,Competitive,Indonesia,17.0
+Application Development,Entry Level,Energy and Utilities,Affinity Designer,Competitive,United Arab Emirates,32.0
+Web Scraping,Intermediate,Technology and SaaS,Octoparse,Competitive,Austria,8.0
+Website Development,Intermediate,Hospitality and Travel,TypeScript,Competitive,Belgium,11.0
+Application Development,Entry Level,Retail (Non-E-commerce),Affinity Designer,Competitive,United States,38.0
+Website Development,Expert,Personal Blogs/Portfolios,Visual Studio Code,Competitive,United Kingdom,29.0
+Application Development,Expert,Energy and Utilities,Balsamiq,Extremely Competitive,United States,36.0
+Application Development,Entry Level,Professional Services,Proto.io,Uncompetitive,Germany,21.0
+Web Scraping,Entry Level,Manufacturing and Industrial,Mozenda,Competitive,Germany,15.0
+Application Development,Intermediate,E-Commerce,Affinity Designer,Uncompetitive,United Kingdom,32.0
+Application Development,Intermediate,Real Estate,InVision,Competitive,Thailand,31.0
+Application Development,Entry Level,Insurance,Adobe XD,Competitive,Germany,20.0
+Application Development,Intermediate,Hospitality and Travel,Axure,Competitive,Italy,23.0
+Website Development,Expert,Technology and SaaS,TypeScript,Competitive,France,16.0
+Application Development,Expert,Hospitality and Travel,Marvel,Competitive,Sweden,29.0
+Application Development,Entry Level,Non-Profit and NGOs,InVision,Extremely Competitive,Russia,26.0
+Web Scraping,Intermediate,Non-Profit and NGOs,Selenium,Competitive,Argentina,4.0
+Application Development,Entry Level,Technology and SaaS,Balsamiq,Competitive,China,17.0
+Web Scraping,Expert,Hospitality and Travel,ParseHub,Competitive,Sweden,24.0
+Application Development,Expert,Education,Proto.io,Uncompetitive,South Korea,27.0
+Website Development,Intermediate,Small Business/Local Business,Flutter,Competitive,Germany,17.0
+Web Scraping,Entry Level,Real Estate,ParseHub,Uncompetitive,Switzerland,25.0
+Website Development,Intermediate,Automotive,Ruby on Rails,Uncompetitive,China,14.0
+Application Development,Expert,Small Business/Local Business,Balsamiq,Competitive,Russia,26.0
+Application Development,Intermediate,Retail (Non-E-commerce),Affinity Designer,Competitive,United States,36.0
+Website Development,Intermediate,Manufacturing and Industrial,Next.js,Competitive,Japan,21.0
+Web Scraping,Entry Level,Construction and Engineering,Scrapy,Competitive,Thailand,26.0
+Web Scraping,Intermediate,Personal Blogs/Portfolios,WebHarvy,Uncompetitive,Germany,15.0
+Website Development,Entry Level,Personal Blogs/Portfolios,TypeScript,Uncompetitive,Japan,21.0
+Web Scraping,Entry Level,Non-Profit and NGOs,OutWit Hub,Competitive,Thailand,25.0
+Application Development,Intermediate,Hospitality and Travel,Balsamiq,Extremely Competitive,United Kingdom,32.0
+Application Development,Expert,Hospitality and Travel,Affinity Designer,Competitive,United States,34.0
+Application Development,Expert,Construction and Engineering,Axure,Competitive,United Kingdom,32.0
+Application Development,Expert,Manufacturing and Industrial,InVision,Uncompetitive,Russia,26.0
+Application Development,Intermediate,Insurance,InVision,Competitive,China,19.0
+Web Scraping,Expert,Professional Services,Mozenda,Competitive,Turkey,26.0
+Web Scraping,Intermediate,Energy and Utilities,Octoparse,Uncompetitive,Brazil,11.0
+Application Development,Expert,Healthcare,Marvel,Competitive,Sweden,29.0
+Website Development,Intermediate,Finance and Banking,Bootstrap,Competitive,India,18.0
+Website Development,Expert,Energy and Utilities,WordPress,Extremely Competitive,Indonesia,19.0
+Application Development,Intermediate,Personal Blogs/Portfolios,Proto.io,Competitive,United Kingdom,32.0
+Website Development,Entry Level,Real Estate,Next.js,Competitive,Japan,21.0
+Application Development,Expert,Media and Entertainment,Marvel,Competitive,China,17.0
+Web Scraping,Intermediate,Education,Octoparse,Competitive,Germany,15.0
+Website Development,Intermediate,Personal Blogs/Portfolios,Laravel,Extremely Competitive,India,18.0
+Web Scraping,Entry Level,Healthcare,Mozenda,Extremely Competitive,Spain,23.0
+Website Development,Expert,Retail (Non-E-commerce),Figma,Competitive,Sweden,26.0
+Website Development,Intermediate,Healthcare,Figma,Competitive,Sweden,25.0
+Application Development,Intermediate,Manufacturing and Industrial,Marvel,Uncompetitive,Japan,24.0
+Application Development,Intermediate,Automotive,Affinity Designer,Competitive,Spain,28.0
+Web Scraping,Intermediate,E-Commerce,Selenium,Competitive,China,13.0
+Application Development,Entry Level,Insurance,Figma,Competitive,Brazil,16.0
+Web Scraping,Expert,E-Commerce,ParseHub,Competitive,Switzerland,25.0
+Website Development,Entry Level,Telecommunications,Django,Competitive,China,15.0
+Website Development,Entry Level,Manufacturing and Industrial,Laravel,Competitive,France,16.0
+Website Development,Expert,Education,Next.js,Competitive,China,14.0
+Application Development,Intermediate,Insurance,Balsamiq,Competitive,India,21.0
+Website Development,Intermediate,Technology and SaaS,TypeScript,Uncompetitive,Brazil,12.0
+Web Scraping,Entry Level,Healthcare,Scrapy,Extremely Competitive,South Korea,22.0
+Website Development,Expert,Energy and Utilities,Flutter,Uncompetitive,Brazil,13.0
+Application Development,Expert,Non-Profit and NGOs,Axure,Uncompetitive,Indonesia,22.0
+Web Scraping,Intermediate,Education,OutWit Hub,Competitive,Indonesia,17.0
+Web Scraping,Entry Level,E-Commerce,OutWit Hub,Competitive,Italy,18.0
+Application Development,Expert,Small Business/Local Business,Affinity Designer,Extremely Competitive,Sweden,29.0
+Web Scraping,Intermediate,Telecommunications,Beautiful Soup,Uncompetitive,Brazil,10.0
+Web Scraping,Intermediate,Construction and Engineering,WebHarvy,Competitive,United States,29.0
+Web Scraping,Intermediate,Technology and SaaS,Selenium,Competitive,Belgium,9.0
+Application Development,Entry Level,Retail (Non-E-commerce),Affinity Designer,Competitive,United States,36.0
+Web Scraping,Intermediate,Energy and Utilities,Octoparse,Competitive,Italy,18.0
+Web Scraping,Intermediate,Healthcare,Import.io,Uncompetitive,Canada,11.0
+Application Development,Entry Level,Energy and Utilities,InVision,Competitive,China,18.0
+Website Development,Entry Level,Non-Profit and NGOs,Django,Competitive,Argentina,6.0
+Application Development,Expert,Retail (Non-E-commerce),Affinity Designer,Extremely Competitive,United States,37.0
+Application Development,Expert,Construction and Engineering,Marvel,Competitive,United States,37.0
+Web Scraping,Intermediate,Construction and Engineering,Octoparse,Competitive,Indonesia,17.0
+Application Development,Intermediate,Non-Profit and NGOs,InVision,Competitive,Canada,16.0
+Application Development,Intermediate,Media and Entertainment,Balsamiq,Competitive,South Korea,27.0
+Website Development,Intermediate,Telecommunications,Django,Competitive,Belgium,10.0
+Web Scraping,Expert,Non-Profit and NGOs,Scrapy,Competitive,Italy,18.0
+Web Scraping,Entry Level,Real Estate,Import.io,Competitive,Indonesia,17.0
+Application Development,Intermediate,Media and Entertainment,Adobe XD,Competitive,China,17.0
+Application Development,Expert,Insurance,Proto.io,Uncompetitive,South Korea,27.0
+Application Development,Expert,Media and Entertainment,Figma,Extremely Competitive,Japan,24.0
+Website Development,Entry Level,Technology and SaaS,TypeScript,Competitive,China,16.0
+Website Development,Expert,Finance and Banking,Next.js,Competitive,China,14.0
+Website Development,Entry Level,Real Estate,Visual Studio Code,Competitive,South Korea,24.0
+Website Development,Intermediate,Media and Entertainment,TypeScript,Competitive,Brazil,12.0
+Web Scraping,Entry Level,Retail (Non-E-commerce),ParseHub,Competitive,United States,35.0
+Application Development,Entry Level,Real Estate,Axure,Competitive,Indonesia,22.0
+Application Development,Expert,Construction and Engineering,UXPin,Uncompetitive,Sweden,29.0
+Website Development,Entry Level,Media and Entertainment,Flutter,Extremely Competitive,China,16.0
+Website Development,Entry Level,Finance and Banking,Flutter,Competitive,Austria,10.0
+Website Development,Entry Level,Finance and Banking,React.js,Uncompetitive,Australia,9.0
+Website Development,Intermediate,E-Commerce,Angular,Competitive,Argentina,3.0
+Website Development,Entry Level,E-Commerce,Ruby on Rails,Competitive,Brazil,12.0
+Application Development,Entry Level,Retail (Non-E-commerce),Marvel,Uncompetitive,Russia,26.0
+Website Development,Entry Level,Healthcare,Express.js,Competitive,Spain,25.0
+Application Development,Entry Level,Hospitality and Travel,Axure,Competitive,Japan,24.0
+Application Development,Intermediate,Real Estate,Proto.io,Extremely Competitive,United States,35.0
+Application Development,Intermediate,Non-Profit and NGOs,Figma,Extremely Competitive,China,17.0
+Website Development,Intermediate,Personal Blogs/Portfolios,Laravel,Extremely Competitive,India,18.0
+Web Scraping,Expert,Professional Services,Beautiful Soup,Competitive,Norway,20.0
+Application Development,Intermediate,Real Estate,Marvel,Competitive,Indonesia,22.0
+Website Development,Expert,Retail (Non-E-commerce),Figma,Competitive,Poland,22.0
+Web Scraping,Expert,Finance and Banking,OutWit Hub,Extremely Competitive,Thailand,25.0
+Application Development,Expert,Education,Balsamiq,Competitive,Turkey,31.0
+Website Development,Expert,Manufacturing and Industrial,Bootstrap,Competitive,Poland,22.0
+Application Development,Expert,Finance and Banking,Balsamiq,Extremely Competitive,United Kingdom,32.0
+Website Development,Entry Level,Manufacturing and Industrial,Express.js,Competitive,France,16.0
+Application Development,Entry Level,Education,Adobe XD,Competitive,Indonesia,22.0
+Application Development,Expert,Energy and Utilities,Adobe XD,Competitive,Indonesia,22.0
+Web Scraping,Entry Level,Construction and Engineering,Octoparse,Competitive,Turkey,26.0
+Application Development,Intermediate,Technology and SaaS,Balsamiq,Competitive,Italy,23.0
+Web Scraping,Expert,E-Commerce,WebHarvy,Competitive,South Korea,23.0
+Web Scraping,Intermediate,Non-Profit and NGOs,DataMiner,Competitive,India,16.0
+Application Development,Expert,E-Commerce,Axure,Competitive,United Kingdom,33.0
+Application Development,Expert,Energy and Utilities,Axure,Extremely Competitive,Sweden,29.0
+Web Scraping,Expert,Professional Services,OutWit Hub,Competitive,India,16.0
+Application Development,Entry Level,Construction and Engineering,InVision,Extremely Competitive,India,21.0
+Website Development,Entry Level,Small Business/Local Business,Bootstrap,Competitive,Japan,21.0
+Application Development,Intermediate,Retail (Non-E-commerce),Adobe XD,Competitive,China,17.0
+Website Development,Intermediate,Finance and Banking,Bootstrap,Extremely Competitive,France,17.0
+Application Development,Intermediate,Non-Profit and NGOs,Axure,Competitive,Brazil,15.0
+Website Development,Entry Level,Media and Entertainment,Ruby on Rails,Extremely Competitive,China,14.0
+Application Development,Expert,Personal Blogs/Portfolios,Balsamiq,Competitive,Turkey,31.0
+Application Development,Intermediate,Personal Blogs/Portfolios,InVision,Uncompetitive,Japan,24.0
+Website Development,Expert,Energy and Utilities,Flutter,Extremely Competitive,Indonesia,19.0
+Application Development,Expert,Healthcare,Proto.io,Competitive,United States,38.0
+Website Development,Intermediate,Personal Blogs/Portfolios,Visual Studio Code,Competitive,Italy,20.0
+Web Scraping,Entry Level,Personal Blogs/Portfolios,Selenium,Competitive,South Korea,23.0
+Website Development,Intermediate,Insurance,Ruby on Rails,Competitive,Brazil,11.0
+Application Development,Expert,Education,Figma,Competitive,Japan,24.0
+Application Development,Entry Level,Media and Entertainment,Adobe XD,Uncompetitive,Brazil,15.0
+Web Scraping,Intermediate,Telecommunications,DataMiner,Extremely Competitive,Austria,8.0
+Website Development,Intermediate,Retail (Non-E-commerce),Laravel,Extremely Competitive,China,15.0
+Web Scraping,Entry Level,Insurance,WebHarvy,Competitive,Netherlands,20.0
+Web Scraping,Expert,Education,Octoparse,Uncompetitive,Russia,21.0
+Web Scraping,Intermediate,Professional Services,Mozenda,Competitive,Indonesia,17.0
+Website Development,Entry Level,Technology and SaaS,Django,Competitive,Australia,7.0
+Web Scraping,Entry Level,Construction and Engineering,Beautiful Soup,Competitive,United States,29.0
+Website Development,Expert,Energy and Utilities,TypeScript,Competitive,Indonesia,19.0
+Web Scraping,Expert,Finance and Banking,Beautiful Soup,Competitive,Spain,23.0
+Website Development,Entry Level,Technology and SaaS,Laravel,Competitive,Australia,7.0
+Web Scraping,Entry Level,Insurance,DataMiner,Competitive,Switzerland,25.0
+Application Development,Expert,Retail (Non-E-commerce),Affinity Designer,Uncompetitive,United States,36.0
+Web Scraping,Expert,E-Commerce,Import.io,Competitive,France,14.0
+Web Scraping,Expert,Manufacturing and Industrial,Beautiful Soup,Competitive,Indonesia,17.0
+Application Development,Expert,Technology and SaaS,InVision,Competitive,Sweden,29.0
+Application Development,Entry Level,Energy and Utilities,InVision,Uncompetitive,Germany,21.0
+Website Development,Intermediate,Healthcare,Django,Competitive,China,15.0
+Web Scraping,Expert,Education,ParseHub,Competitive,Mexico,19.0
+Website Development,Entry Level,Construction and Engineering,Bootstrap,Competitive,France,17.0
+Web Scraping,Expert,Education,DataMiner,Competitive,Sweden,24.0
+Application Development,Expert,Healthcare,UXPin,Competitive,United Kingdom,33.0
+Web Scraping,Entry Level,Energy and Utilities,Selenium,Competitive,Saudi Arabia,22.0
+Website Development,Intermediate,Manufacturing and Industrial,Django,Competitive,Australia,8.0
+Application Development,Intermediate,Non-Profit and NGOs,Figma,Competitive,France,19.0
+Website Development,Intermediate,Government,WordPress,Competitive,Netherlands,22.0
+Web Scraping,Intermediate,Finance and Banking,OutWit Hub,Uncompetitive,China,12.0
+Application Development,Entry Level,Energy and Utilities,InVision,Competitive,South Korea,28.0
+Web Scraping,Intermediate,E-Commerce,WebHarvy,Competitive,Germany,16.0
+Application Development,Expert,Real Estate,Affinity Designer,Competitive,United Kingdom,32.0
+Application Development,Intermediate,Media and Entertainment,Sketch,Competitive,Australia,11.0
+Web Scraping,Entry Level,Small Business/Local Business,ParseHub,Competitive,Saudi Arabia,21.0
+Website Development,Entry Level,Finance and Banking,Angular,Competitive,Australia,8.0
+Web Scraping,Entry Level,Energy and Utilities,WebHarvy,Uncompetitive,France,14.0
+Web Scraping,Intermediate,Real Estate,Beautiful Soup,Uncompetitive,Turkey,26.0
+Application Development,Intermediate,Small Business/Local Business,Balsamiq,Competitive,Saudi Arabia,27.0
+Web Scraping,Intermediate,Real Estate,OutWit Hub,Competitive,United Kingdom,28.0
+Application Development,Expert,Retail (Non-E-commerce),Affinity Designer,Uncompetitive,United Kingdom,32.0
+Application Development,Entry Level,Non-Profit and NGOs,Sketch,Competitive,China,18.0
+Web Scraping,Intermediate,Manufacturing and Industrial,Scrapy,Competitive,Germany,16.0
+Website Development,Intermediate,E-Commerce,Laravel,Competitive,Brazil,12.0
+Web Scraping,Intermediate,Manufacturing and Industrial,Import.io,Uncompetitive,Germany,16.0
+Web Scraping,Entry Level,Hospitality and Travel,Selenium,Extremely Competitive,Switzerland,24.0
+Website Development,Intermediate,Professional Services,Next.js,Extremely Competitive,India,19.0
+Web Scraping,Intermediate,Hospitality and Travel,DataMiner,Competitive,Norway,20.0
+Web Scraping,Intermediate,Telecommunications,WebHarvy,Competitive,France,15.0
+Application Development,Intermediate,Energy and Utilities,Proto.io,Competitive,Italy,23.0
+Application Development,Entry Level,Education,InVision,Competitive,India,22.0
+Website Development,Entry Level,Small Business/Local Business,Bootstrap,Uncompetitive,Japan,21.0
+Application Development,Expert,Energy and Utilities,Marvel,Competitive,Thailand,30.0
+Application Development,Expert,Small Business/Local Business,Marvel,Uncompetitive,Turkey,31.0
+Application Development,Expert,Personal Blogs/Portfolios,Balsamiq,Competitive,South Korea,27.0
+Web Scraping,Entry Level,Personal Blogs/Portfolios,Beautiful Soup,Competitive,United States,31.0
+Application Development,Intermediate,Insurance,Axure,Competitive,Netherlands,25.0
+Website Development,Expert,Insurance,Django,Competitive,Australia,7.0
+Application Development,Intermediate,Education,Axure,Competitive,South Korea,27.0
+Website Development,Intermediate,Healthcare,Next.js,Uncompetitive,Russia,23.0
+Website Development,Expert,Education,Express.js,Competitive,South Korea,24.0
+Website Development,Entry Level,Technology and SaaS,Angular,Extremely Competitive,Canada,13.0
+Application Development,Intermediate,Manufacturing and Industrial,Figma,Competitive,South Korea,27.0
+Application Development,Intermediate,Non-Profit and NGOs,InVision,Competitive,France,19.0
+Website Development,Intermediate,E-Commerce,Flutter,Competitive,Netherlands,22.0
+Web Scraping,Entry Level,Manufacturing and Industrial,WebHarvy,Competitive,South Korea,22.0
+Website Development,Expert,Professional Services,Angular,Competitive,Canada,13.0
+Application Development,Entry Level,Hospitality and Travel,Figma,Extremely Competitive,China,18.0
+Website Development,Entry Level,Retail (Non-E-commerce),TypeScript,Extremely Competitive,India,18.0
+Application Development,Intermediate,Small Business/Local Business,Balsamiq,Uncompetitive,United Arab Emirates,31.0
+Application Development,Expert,E-Commerce,Affinity Designer,Uncompetitive,United States,36.0
+Web Scraping,Expert,Personal Blogs/Portfolios,Scrapy,Uncompetitive,United Kingdom,28.0
+Application Development,Entry Level,Construction and Engineering,Marvel,Competitive,Germany,20.0
+Website Development,Expert,Healthcare,Bootstrap,Uncompetitive,Turkey,28.0
+Web Scraping,Entry Level,Small Business/Local Business,ParseHub,Extremely Competitive,Germany,15.0
+Web Scraping,Intermediate,Manufacturing and Industrial,ParseHub,Competitive,Russia,21.0
+Website Development,Intermediate,Telecommunications,Node.js,Competitive,Argentina,5.0
+Website Development,Expert,Hospitality and Travel,Django,Competitive,China,15.0
+Application Development,Entry Level,Energy and Utilities,Marvel,Competitive,Japan,24.0
+Web Scraping,Intermediate,Technology and SaaS,ParseHub,Competitive,Canada,11.0
+Website Development,Intermediate,Construction and Engineering,Drupal,Competitive,Saudi Arabia,24.0
+Application Development,Entry Level,Finance and Banking,Adobe XD,Competitive,Germany,21.0
+Web Scraping,Expert,Automotive,Selenium,Competitive,United States,30.0
+Website Development,Intermediate,Media and Entertainment,Express.js,Competitive,China,15.0
+Website Development,Expert,Manufacturing and Industrial,Express.js,Competitive,China,15.0
+Application Development,Intermediate,Automotive,Balsamiq,Competitive,United Kingdom,32.0
+Website Development,Intermediate,Small Business/Local Business,Flutter,Competitive,Austria,10.0
+Web Scraping,Intermediate,Personal Blogs/Portfolios,Octoparse,Competitive,India,17.0
+Application Development,Entry Level,Technology and SaaS,UXPin,Extremely Competitive,Thailand,30.0
+Web Scraping,Expert,Real Estate,Import.io,Competitive,United States,29.0
+Web Scraping,Expert,Retail (Non-E-commerce),Octoparse,Competitive,Thailand,25.0
+Web Scraping,Intermediate,Professional Services,OutWit Hub,Extremely Competitive,India,17.0
+Website Development,Expert,Insurance,TypeScript,Extremely Competitive,Brazil,12.0
+Web Scraping,Intermediate,Insurance,Scrapy,Competitive,China,13.0
+Application Development,Expert,Healthcare,Affinity Designer,Competitive,United States,36.0
+Application Development,Entry Level,Technology and SaaS,UXPin,Competitive,Japan,24.0
+Website Development,Entry Level,Finance and Banking,Next.js,Competitive,Brazil,12.0
+Web Scraping,Intermediate,Finance and Banking,DataMiner,Competitive,Australia,6.0
+Application Development,Expert,Education,Marvel,Uncompetitive,Germany,21.0
+Web Scraping,Intermediate,Construction and Engineering,Octoparse,Uncompetitive,Turkey,26.0
+Application Development,Intermediate,Telecommunications,Proto.io,Competitive,Japan,24.0
+Web Scraping,Intermediate,Healthcare,OutWit Hub,Uncompetitive,South Korea,23.0
+Web Scraping,Expert,Non-Profit and NGOs,Beautiful Soup,Competitive,Russia,21.0
+Website Development,Entry Level,Retail (Non-E-commerce),TypeScript,Extremely Competitive,China,15.0
+Application Development,Entry Level,Healthcare,UXPin,Competitive,United Kingdom,32.0
+Website Development,Intermediate,Government,Flutter,Uncompetitive,Germany,17.0
+Website Development,Intermediate,Healthcare,WordPress,Competitive,Poland,22.0
+Web Scraping,Intermediate,Healthcare,Selenium,Competitive,United Kingdom,29.0
+Website Development,Intermediate,Small Business/Local Business,Bootstrap,Uncompetitive,Germany,17.0
+Application Development,Entry Level,Professional Services,UXPin,Competitive,Thailand,30.0
+Application Development,Expert,Insurance,UXPin,Competitive,Netherlands,25.0
+Application Development,Expert,Personal Blogs/Portfolios,Affinity Designer,Competitive,United Kingdom,32.0
+Application Development,Intermediate,Telecommunications,Sketch,Competitive,Argentina,9.0
+Web Scraping,Expert,E-Commerce,DataMiner,Competitive,Thailand,25.0
+Website Development,Expert,Education,Bootstrap,Extremely Competitive,Switzerland,26.0
+Web Scraping,Entry Level,Personal Blogs/Portfolios,OutWit Hub,Extremely Competitive,United States,34.0
+Application Development,Intermediate,Finance and Banking,Marvel,Competitive,Belgium,13.0
+Web Scraping,Expert,Real Estate,Octoparse,Competitive,Russia,21.0
+Website Development,Intermediate,Telecommunications,Ruby on Rails,Competitive,Canada,14.0
+Application Development,Intermediate,Real Estate,Axure,Extremely Competitive,United States,35.0
+Website Development,Intermediate,Finance and Banking,Laravel,Competitive,Brazil,12.0
+Web Scraping,Entry Level,E-Commerce,Mozenda,Competitive,Switzerland,24.0
+Web Scraping,Intermediate,Hospitality and Travel,Selenium,Extremely Competitive,Germany,15.0
+Web Scraping,Expert,Retail (Non-E-commerce),Scrapy,Competitive,Thailand,25.0
+Application Development,Entry Level,Government,UXPin,Extremely Competitive,South Korea,27.0
+Application Development,Expert,Manufacturing and Industrial,Figma,Competitive,Saudi Arabia,27.0
+Application Development,Intermediate,Personal Blogs/Portfolios,Axure,Competitive,United States,35.0
+Website Development,Intermediate,Real Estate,WordPress,Uncompetitive,Italy,20.0
+Web Scraping,Entry Level,Personal Blogs/Portfolios,ParseHub,Competitive,Spain,23.0
+Application Development,Entry Level,Non-Profit and NGOs,Axure,Competitive,Russia,26.0
+Web Scraping,Intermediate,Insurance,Beautiful Soup,Competitive,China,13.0
+Website Development,Entry Level,Technology and SaaS,Laravel,Competitive,Australia,9.0
+Application Development,Intermediate,Insurance,Axure,Competitive,France,19.0
+Web Scraping,Intermediate,Hospitality and Travel,Selenium,Competitive,Russia,21.0
+Application Development,Intermediate,Hospitality and Travel,Axure,Competitive,Switzerland,29.0
+Website Development,Intermediate,Telecommunications,TypeScript,Uncompetitive,Australia,9.0
+Website Development,Entry Level,Construction and Engineering,Laravel,Competitive,Belgium,11.0
+Application Development,Intermediate,Small Business/Local Business,Affinity Designer,Extremely Competitive,Spain,28.0
+Web Scraping,Intermediate,Professional Services,Beautiful Soup,Competitive,Germany,16.0
+Website Development,Entry Level,Non-Profit and NGOs,Django,Competitive,Australia,7.0
+Web Scraping,Expert,Education,Beautiful Soup,Competitive,Israel,18.0
+Application Development,Intermediate,Professional Services,InVision,Uncompetitive,Mexico,24.0
+Web Scraping,Entry Level,Real Estate,WebHarvy,Uncompetitive,United Kingdom,27.0
+Application Development,Intermediate,Telecommunications,UXPin,Extremely Competitive,Mexico,24.0
+Application Development,Entry Level,Retail (Non-E-commerce),Axure,Uncompetitive,United Kingdom,32.0
+Web Scraping,Entry Level,Energy and Utilities,Mozenda,Competitive,Indonesia,17.0
+Web Scraping,Entry Level,Finance and Banking,Selenium,Competitive,Germany,16.0
+Web Scraping,Expert,Government,Octoparse,Competitive,United Kingdom,28.0
+Application Development,Entry Level,Manufacturing and Industrial,InVision,Competitive,Russia,26.0
+Application Development,Entry Level,Telecommunications,Adobe XD,Competitive,Belgium,14.0
+Application Development,Intermediate,Healthcare,Axure,Uncompetitive,Turkey,31.0
+Website Development,Intermediate,Retail (Non-E-commerce),Express.js,Competitive,Switzerland,26.0
+Application Development,Intermediate,Telecommunications,Axure,Competitive,Netherlands,25.0
+Website Development,Intermediate,Construction and Engineering,TypeScript,Competitive,France,17.0
+Web Scraping,Expert,Construction and Engineering,DataMiner,Competitive,United Kingdom,27.0
+Website Development,Entry Level,Healthcare,Express.js,Uncompetitive,Netherlands,22.0
+Website Development,Intermediate,Personal Blogs/Portfolios,Flutter,Competitive,Germany,17.0
+Web Scraping,Entry Level,Personal Blogs/Portfolios,Selenium,Competitive,Switzerland,25.0
+Web Scraping,Entry Level,Energy and Utilities,Octoparse,Competitive,Germany,15.0
+Web Scraping,Intermediate,Retail (Non-E-commerce),Scrapy,Extremely Competitive,Saudi Arabia,22.0
+Web Scraping,Intermediate,Small Business/Local Business,Selenium,Uncompetitive,Norway,20.0
+Application Development,Expert,Automotive,UXPin,Competitive,United States,34.0
+Website Development,Expert,Construction and Engineering,Bootstrap,Competitive,Indonesia,19.0
+Website Development,Expert,Healthcare,Bootstrap,Uncompetitive,Italy,20.0
+Web Scraping,Expert,Media and Entertainment,Selenium,Extremely Competitive,United States,31.0
+Web Scraping,Expert,Education,Selenium,Competitive,Italy,18.0
+Application Development,Expert,E-Commerce,InVision,Competitive,Spain,28.0
+Web Scraping,Intermediate,Energy and Utilities,Beautiful Soup,Competitive,Poland,20.0
+Web Scraping,Intermediate,Telecommunications,Scrapy,Extremely Competitive,Germany,15.0
+Website Development,Intermediate,Government,Flutter,Competitive,Indonesia,19.0
+Web Scraping,Expert,Retail (Non-E-commerce),WebHarvy,Competitive,Switzerland,24.0
+Web Scraping,Entry Level,Finance and Banking,OutWit Hub,Competitive,India,16.0
+Web Scraping,Expert,Hospitality and Travel,Mozenda,Competitive,Indonesia,17.0
+Website Development,Intermediate,Construction and Engineering,Next.js,Competitive,Indonesia,19.0
+Application Development,Entry Level,Automotive,UXPin,Competitive,Switzerland,29.0
+Website Development,Entry Level,Construction and Engineering,Bootstrap,Competitive,South Korea,24.0
+Web Scraping,Expert,Small Business/Local Business,Mozenda,Extremely Competitive,Indonesia,17.0
+Web Scraping,Entry Level,Non-Profit and NGOs,Mozenda,Extremely Competitive,China,14.0
+Application Development,Intermediate,Small Business/Local Business,Figma,Competitive,China,18.0
+Application Development,Entry Level,Small Business/Local Business,Figma,Competitive,Norway,25.0
+Application Development,Intermediate,E-Commerce,Proto.io,Competitive,Japan,24.0
+Web Scraping,Intermediate,Personal Blogs/Portfolios,ParseHub,Competitive,Spain,23.0
+Website Development,Entry Level,Manufacturing and Industrial,Bootstrap,Uncompetitive,India,18.0
+Website Development,Intermediate,Education,Angular,Competitive,Belgium,11.0
+Application Development,Intermediate,Construction and Engineering,InVision,Uncompetitive,Turkey,31.0
+Application Development,Entry Level,Non-Profit and NGOs,Proto.io,Competitive,India,21.0
+Website Development,Intermediate,Government,Ruby on Rails,Extremely Competitive,Australia,9.0
+Web Scraping,Entry Level,E-Commerce,Mozenda,Competitive,Canada,11.0
+Application Development,Entry Level,Construction and Engineering,Marvel,Extremely Competitive,United Arab Emirates,32.0
+Website Development,Entry Level,Insurance,Vue.js,Extremely Competitive,Austria,10.0
+Website Development,Intermediate,Real Estate,Ruby on Rails,Competitive,China,14.0
+Web Scraping,Entry Level,Retail (Non-E-commerce),WebHarvy,Competitive,China,14.0
+Web Scraping,Intermediate,Manufacturing and Industrial,DataMiner,Extremely Competitive,China,12.0
+Web Scraping,Expert,Finance and Banking,Octoparse,Competitive,India,16.0
+Application Development,Intermediate,Small Business/Local Business,Axure,Uncompetitive,France,19.0
+Web Scraping,Entry Level,Manufacturing and Industrial,Scrapy,Competitive,Japan,19.0
+Web Scraping,Expert,Manufacturing and Industrial,Import.io,Competitive,United States,29.0
+Application Development,Intermediate,Government,Axure,Competitive,Norway,25.0
+Website Development,Intermediate,Technology and SaaS,Laravel,Competitive,Argentina,6.0
+Web Scraping,Entry Level,Small Business/Local Business,DataMiner,Competitive,Norway,20.0
+Web Scraping,Intermediate,Energy and Utilities,Import.io,Extremely Competitive,India,16.0
+Website Development,Intermediate,Hospitality and Travel,TypeScript,Competitive,Brazil,12.0
+Web Scraping,Expert,Manufacturing and Industrial,Selenium,Competitive,Russia,21.0
+Web Scraping,Intermediate,Insurance,Scrapy,Competitive,Brazil,10.0
+Website Development,Entry Level,Government,Ruby on Rails,Uncompetitive,Belgium,11.0
+Website Development,Intermediate,Energy and Utilities,Laravel,Competitive,Belgium,11.0
+Application Development,Intermediate,Manufacturing and Industrial,Marvel,Competitive,Switzerland,29.0
+Application Development,Expert,Manufacturing and Industrial,UXPin,Competitive,Japan,24.0
+Application Development,Expert,Automotive,Figma,Competitive,South Korea,27.0
+Web Scraping,Intermediate,Non-Profit and NGOs,ParseHub,Competitive,Japan,19.0
+Website Development,Intermediate,Hospitality and Travel,Angular,Competitive,Canada,13.0
+Application Development,Intermediate,Energy and Utilities,Axure,Extremely Competitive,China,19.0
+Application Development,Intermediate,Insurance,Proto.io,Competitive,Israel,23.0
+Website Development,Entry Level,Finance and Banking,Laravel,Competitive,Australia,8.0
+Application Development,Intermediate,Construction and Engineering,Figma,Extremely Competitive,Mexico,25.0
+Website Development,Intermediate,Technology and SaaS,Flutter,Extremely Competitive,Brazil,12.0
+Web Scraping,Entry Level,Retail (Non-E-commerce),Beautiful Soup,Uncompetitive,Thailand,26.0
+Web Scraping,Expert,Government,Selenium,Competitive,Spain,23.0
+Application Development,Expert,Insurance,Marvel,Competitive,Russia,26.0
+Website Development,Intermediate,Real Estate,Express.js,Competitive,India,18.0
+Application Development,Entry Level,Hospitality and Travel,InVision,Extremely Competitive,Japan,24.0
+Application Development,Expert,Insurance,Axure,Extremely Competitive,United Kingdom,34.0
+Application Development,Entry Level,Professional Services,Adobe XD,Extremely Competitive,Indonesia,22.0
+Web Scraping,Expert,Government,Octoparse,Competitive,United States,30.0
+Application Development,Intermediate,Technology and SaaS,Figma,Extremely Competitive,Australia,10.0
+Website Development,Intermediate,Finance and Banking,Flutter,Competitive,Austria,10.0
+Application Development,Expert,Small Business/Local Business,Proto.io,Competitive,United States,38.0
+Application Development,Expert,Non-Profit and NGOs,InVision,Competitive,Germany,20.0
+Website Development,Intermediate,Finance and Banking,Laravel,Competitive,Brazil,12.0
+Web Scraping,Intermediate,Manufacturing and Industrial,Octoparse,Competitive,Indonesia,17.0
+Application Development,Expert,Hospitality and Travel,Marvel,Competitive,Russia,26.0
+Website Development,Intermediate,Non-Profit and NGOs,Django,Extremely Competitive,Argentina,5.0
+Website Development,Intermediate,Healthcare,Flutter,Competitive,Germany,17.0
+Web Scraping,Entry Level,Construction and Engineering,Scrapy,Extremely Competitive,Thailand,25.0
+Web Scraping,Entry Level,Energy and Utilities,Scrapy,Competitive,South Korea,22.0
+Application Development,Entry Level,Healthcare,Affinity Designer,Extremely Competitive,United States,36.0
+Website Development,Intermediate,Personal Blogs/Portfolios,Next.js,Uncompetitive,Brazil,12.0
+Application Development,Entry Level,Government,Marvel,Competitive,Netherlands,25.0
+Web Scraping,Intermediate,Professional Services,DataMiner,Competitive,India,16.0
+Web Scraping,Intermediate,Finance and Banking,ParseHub,Extremely Competitive,Italy,18.0
+Web Scraping,Expert,Education,WebHarvy,Competitive,Germany,16.0
+Application Development,Intermediate,Hospitality and Travel,Balsamiq,Competitive,Spain,28.0
+Web Scraping,Entry Level,Hospitality and Travel,DataMiner,Competitive,United Arab Emirates,27.0
+Web Scraping,Intermediate,Technology and SaaS,OutWit Hub,Extremely Competitive,Netherlands,20.0
+Web Scraping,Intermediate,Healthcare,Beautiful Soup,Competitive,Thailand,25.0
+Web Scraping,Expert,E-Commerce,WebHarvy,Competitive,Spain,23.0
+Web Scraping,Expert,Telecommunications,Beautiful Soup,Competitive,Germany,15.0
+Application Development,Intermediate,Real Estate,Affinity Designer,Uncompetitive,United Kingdom,33.0
+Web Scraping,Intermediate,Healthcare,ParseHub,Competitive,Japan,19.0
+Application Development,Intermediate,Media and Entertainment,InVision,Competitive,Thailand,31.0
+Application Development,Expert,Finance and Banking,Proto.io,Competitive,Israel,23.0
+Application Development,Intermediate,Construction and Engineering,Proto.io,Competitive,Spain,28.0
+Web Scraping,Entry Level,Finance and Banking,ParseHub,Competitive,Brazil,10.0
+Web Scraping,Intermediate,Hospitality and Travel,Beautiful Soup,Extremely Competitive,Mexico,20.0
+Application Development,Intermediate,Hospitality and Travel,Proto.io,Competitive,Saudi Arabia,26.0
+Website Development,Expert,Technology and SaaS,Django,Uncompetitive,Austria,10.0
+Application Development,Expert,Construction and Engineering,Affinity Designer,Competitive,United Kingdom,33.0
+Application Development,Intermediate,Government,InVision,Uncompetitive,Spain,28.0
+Web Scraping,Intermediate,Small Business/Local Business,Scrapy,Competitive,Austria,8.0
+Application Development,Intermediate,Small Business/Local Business,InVision,Competitive,Japan,24.0
+Application Development,Entry Level,Personal Blogs/Portfolios,Balsamiq,Competitive,Thailand,31.0
+Application Development,Intermediate,Real Estate,Marvel,Competitive,Saudi Arabia,26.0
+Application Development,Entry Level,Construction and Engineering,UXPin,Uncompetitive,United Arab Emirates,32.0
+Application Development,Expert,Healthcare,Balsamiq,Competitive,United States,35.0
+Web Scraping,Expert,Non-Profit and NGOs,Beautiful Soup,Competitive,Mexico,20.0
+Application Development,Expert,Healthcare,UXPin,Competitive,United States,38.0
+Application Development,Expert,Media and Entertainment,Proto.io,Extremely Competitive,Germany,20.0
+Website Development,Entry Level,Automotive,Bootstrap,Extremely Competitive,India,19.0
+Website Development,Entry Level,Retail (Non-E-commerce),Figma,Uncompetitive,Thailand,27.0
+Application Development,Entry Level,Retail (Non-E-commerce),Balsamiq,Competitive,United States,35.0
+Application Development,Intermediate,Non-Profit and NGOs,InVision,Competitive,Indonesia,22.0
+Web Scraping,Intermediate,Government,ParseHub,Uncompetitive,South Korea,22.0
+Web Scraping,Intermediate,Insurance,DataMiner,Competitive,Indonesia,17.0
+Website Development,Entry Level,Insurance,Flutter,Competitive,Belgium,11.0
+Application Development,Entry Level,Small Business/Local Business,Proto.io,Competitive,Switzerland,29.0
+Web Scraping,Intermediate,Insurance,Import.io,Competitive,Germany,16.0
+Web Scraping,Entry Level,Hospitality and Travel,Import.io,Competitive,Switzerland,24.0
+Website Development,Entry Level,Professional Services,Flutter,Competitive,Brazil,12.0
+Application Development,Intermediate,Insurance,Sketch,Uncompetitive,Canada,17.0
+Web Scraping,Entry Level,Construction and Engineering,ParseHub,Uncompetitive,India,16.0
+Web Scraping,Entry Level,Professional Services,Octoparse,Competitive,Switzerland,24.0
+Application Development,Expert,Telecommunications,UXPin,Extremely Competitive,Spain,28.0
+Web Scraping,Entry Level,Retail (Non-E-commerce),Scrapy,Uncompetitive,United States,32.0
+Website Development,Expert,Education,Laravel,Competitive,China,15.0
+Website Development,Expert,E-Commerce,WordPress,Uncompetitive,Mexico,22.0
+Web Scraping,Intermediate,Education,Scrapy,Competitive,Australia,8.0
+Web Scraping,Entry Level,Manufacturing and Industrial,Octoparse,Competitive,South Korea,22.0
+Application Development,Intermediate,Construction and Engineering,Adobe XD,Uncompetitive,France,19.0
+Application Development,Intermediate,Real Estate,Marvel,Extremely Competitive,Mexico,24.0
+Application Development,Intermediate,Retail (Non-E-commerce),UXPin,Competitive,Spain,28.0
+Web Scraping,Intermediate,Education,Mozenda,Extremely Competitive,Germany,16.0
+Website Development,Expert,Technology and SaaS,Flutter,Competitive,China,15.0
+Website Development,Expert,Non-Profit and NGOs,Laravel,Uncompetitive,Australia,7.0
+Application Development,Expert,Insurance,Affinity Designer,Competitive,Switzerland,29.0
+Website Development,Intermediate,Hospitality and Travel,Laravel,Uncompetitive,Austria,10.0
+Web Scraping,Intermediate,Finance and Banking,Octoparse,Competitive,Indonesia,17.0
+Application Development,Intermediate,Manufacturing and Industrial,Sketch,Competitive,China,18.0
+Web Scraping,Entry Level,Personal Blogs/Portfolios,Octoparse,Competitive,Spain,23.0
+Web Scraping,Intermediate,Retail (Non-E-commerce),Selenium,Competitive,South Korea,22.0
+Application Development,Intermediate,Healthcare,Affinity Designer,Extremely Competitive,Switzerland,29.0
+Web Scraping,Intermediate,Telecommunications,Beautiful Soup,Extremely Competitive,China,12.0
+Website Development,Expert,Real Estate,Drupal,Uncompetitive,South Korea,24.0
+Web Scraping,Intermediate,Automotive,Mozenda,Competitive,Poland,21.0
+Application Development,Intermediate,Telecommunications,Adobe XD,Competitive,Australia,11.0
+Website Development,Expert,Non-Profit and NGOs,Express.js,Competitive,Russia,23.0
+Web Scraping,Expert,Healthcare,Octoparse,Extremely Competitive,United States,30.0
+Website Development,Entry Level,Small Business/Local Business,TypeScript,Competitive,Brazil,12.0
+Website Development,Entry Level,Construction and Engineering,Next.js,Competitive,China,15.0
+Website Development,Intermediate,Media and Entertainment,Laravel,Competitive,Germany,17.0
+Website Development,Entry Level,Insurance,Ruby on Rails,Competitive,Australia,7.0
+Website Development,Expert,Healthcare,TypeScript,Competitive,Israel,20.0
+Web Scraping,Expert,Healthcare,Beautiful Soup,Extremely Competitive,United Kingdom,28.0
+Application Development,Expert,Personal Blogs/Portfolios,Balsamiq,Uncompetitive,Switzerland,29.0
+Web Scraping,Entry Level,Non-Profit and NGOs,Octoparse,Extremely Competitive,France,14.0
+Application Development,Expert,Automotive,Axure,Extremely Competitive,Thailand,30.0
+Web Scraping,Expert,Hospitality and Travel,Beautiful Soup,Competitive,Japan,19.0
+Application Development,Expert,Government,UXPin,Competitive,Thailand,30.0
+Web Scraping,Intermediate,Personal Blogs/Portfolios,DataMiner,Competitive,Japan,19.0
+Application Development,Entry Level,Non-Profit and NGOs,InVision,Extremely Competitive,France,20.0
+Website Development,Entry Level,Hospitality and Travel,TypeScript,Competitive,Italy,20.0
+Application Development,Expert,Hospitality and Travel,Proto.io,Competitive,United Arab Emirates,31.0
+Web Scraping,Intermediate,Telecommunications,DataMiner,Competitive,Poland,20.0
+Application Development,Intermediate,Technology and SaaS,Figma,Competitive,Canada,16.0
+Website Development,Entry Level,Non-Profit and NGOs,Ruby on Rails,Extremely Competitive,Australia,8.0
+Website Development,Entry Level,Automotive,Next.js,Competitive,Canada,14.0
+Application Development,Expert,Real Estate,Axure,Competitive,United Kingdom,34.0
+Web Scraping,Intermediate,Retail (Non-E-commerce),Mozenda,Competitive,United States,29.0
+Application Development,Intermediate,Construction and Engineering,UXPin,Competitive,Poland,26.0
+Web Scraping,Expert,Government,Mozenda,Competitive,United Arab Emirates,26.0
+Application Development,Intermediate,Government,Affinity Designer,Competitive,Turkey,31.0
+Web Scraping,Entry Level,Energy and Utilities,Octoparse,Competitive,Canada,12.0
+Web Scraping,Expert,Construction and Engineering,Mozenda,Competitive,Spain,23.0
+Web Scraping,Intermediate,Construction and Engineering,Octoparse,Extremely Competitive,United Kingdom,28.0
+Application Development,Entry Level,Professional Services,Balsamiq,Competitive,Sweden,28.0
+Web Scraping,Entry Level,Finance and Banking,Mozenda,Competitive,Norway,20.0
+Web Scraping,Intermediate,Real Estate,Import.io,Extremely Competitive,Switzerland,24.0
+Web Scraping,Entry Level,Real Estate,DataMiner,Competitive,Poland,21.0
+Website Development,Intermediate,Construction and Engineering,Bootstrap,Competitive,France,16.0
+Application Development,Expert,Government,Proto.io,Competitive,South Africa,27.0
+Application Development,Expert,Finance and Banking,Figma,Extremely Competitive,Poland,26.0
+Web Scraping,Entry Level,Telecommunications,DataMiner,Competitive,Brazil,10.0
+Web Scraping,Expert,Hospitality and Travel,Import.io,Uncompetitive,United States,31.0
+Website Development,Entry Level,Telecommunications,Next.js,Extremely Competitive,Netherlands,22.0
+Website Development,Entry Level,Personal Blogs/Portfolios,Drupal,Extremely Competitive,Switzerland,26.0
+Website Development,Expert,Automotive,Express.js,Competitive,South Africa,24.0
+Application Development,Intermediate,Real Estate,InVision,Competitive,Spain,28.0
+Website Development,Entry Level,Telecommunications,Node.js,Uncompetitive,Argentina,3.0
+Application Development,Intermediate,Education,Figma,Uncompetitive,China,18.0
+Website Development,Intermediate,Energy and Utilities,WordPress,Extremely Competitive,Japan,21.0
+Website Development,Expert,Construction and Engineering,Flutter,Competitive,Netherlands,22.0
+Web Scraping,Expert,Media and Entertainment,WebHarvy,Competitive,India,16.0
+Web Scraping,Expert,Finance and Banking,Octoparse,Competitive,Germany,15.0
+Web Scraping,Intermediate,Personal Blogs/Portfolios,Selenium,Competitive,Sweden,23.0
+Website Development,Expert,Construction and Engineering,Next.js,Competitive,India,19.0
+Web Scraping,Entry Level,Small Business/Local Business,Scrapy,Uncompetitive,France,14.0
+Web Scraping,Expert,Retail (Non-E-commerce),Import.io,Competitive,United States,35.0
+Application Development,Intermediate,Insurance,Balsamiq,Competitive,Spain,28.0
+Application Development,Expert,Finance and Banking,Balsamiq,Uncompetitive,Italy,23.0
+Application Development,Expert,Small Business/Local Business,Marvel,Uncompetitive,United States,34.0
+Application Development,Entry Level,E-Commerce,UXPin,Competitive,Saudi Arabia,27.0
+Application Development,Expert,Non-Profit and NGOs,UXPin,Competitive,Poland,25.0
+Web Scraping,Expert,Personal Blogs/Portfolios,ParseHub,Competitive,Turkey,26.0
+Website Development,Intermediate,Small Business/Local Business,Next.js,Extremely Competitive,France,17.0
+Web Scraping,Intermediate,Government,Selenium,Competitive,Russia,21.0
+Application Development,Intermediate,Insurance,Sketch,Competitive,Brazil,15.0
+Web Scraping,Expert,Insurance,Import.io,Uncompetitive,Norway,20.0
+Website Development,Intermediate,Education,Angular,Competitive,Belgium,11.0
+Website Development,Intermediate,Retail (Non-E-commerce),Express.js,Competitive,Japan,21.0
+Application Development,Expert,Retail (Non-E-commerce),Affinity Designer,Competitive,United States,35.0
+Web Scraping,Entry Level,Automotive,Beautiful Soup,Extremely Competitive,Switzerland,24.0
+Application Development,Expert,Media and Entertainment,InVision,Uncompetitive,Japan,24.0
+Website Development,Expert,Energy and Utilities,WordPress,Competitive,Spain,25.0
+Web Scraping,Entry Level,Personal Blogs/Portfolios,Scrapy,Competitive,South Korea,23.0
+Application Development,Expert,Finance and Banking,UXPin,Uncompetitive,Turkey,31.0
+Application Development,Entry Level,Construction and Engineering,Affinity Designer,Competitive,United Kingdom,34.0
+Application Development,Expert,Hospitality and Travel,Balsamiq,Competitive,United Arab Emirates,31.0
+Website Development,Intermediate,Telecommunications,React.js,Competitive,Australia,6.0
+Website Development,Expert,Finance and Banking,Laravel,Competitive,Belgium,11.0
+Website Development,Intermediate,Manufacturing and Industrial,Django,Competitive,Belgium,11.0
+Web Scraping,Entry Level,Professional Services,Import.io,Extremely Competitive,Japan,19.0
+Application Development,Expert,Energy and Utilities,Balsamiq,Uncompetitive,Poland,25.0
+Web Scraping,Intermediate,Manufacturing and Industrial,Octoparse,Competitive,Germany,15.0
+Web Scraping,Intermediate,Healthcare,ParseHub,Competitive,Switzerland,24.0
+Web Scraping,Expert,Manufacturing and Industrial,Octoparse,Uncompetitive,Turkey,26.0
+Web Scraping,Entry Level,Government,Import.io,Competitive,Turkey,26.0
+Website Development,Intermediate,Telecommunications,Ruby on Rails,Competitive,Belgium,11.0
+Application Development,Intermediate,Real Estate,UXPin,Competitive,South Korea,28.0
+Web Scraping,Expert,Media and Entertainment,Beautiful Soup,Competitive,Canada,11.0
+Website Development,Entry Level,Healthcare,Bootstrap,Extremely Competitive,Russia,23.0
+Application Development,Entry Level,Finance and Banking,Marvel,Extremely Competitive,Germany,20.0
+Application Development,Entry Level,Real Estate,Balsamiq,Competitive,Poland,25.0
+Application Development,Intermediate,Finance and Banking,Figma,Competitive,Austria,13.0
+Application Development,Intermediate,Insurance,Sketch,Competitive,Austria,13.0
+Web Scraping,Intermediate,Construction and Engineering,Selenium,Competitive,Switzerland,24.0
+Application Development,Intermediate,Telecommunications,Marvel,Competitive,Poland,26.0
+Web Scraping,Entry Level,Professional Services,WebHarvy,Competitive,China,13.0
+Website Development,Entry Level,Technology and SaaS,TypeScript,Competitive,Italy,20.0
+Web Scraping,Expert,Finance and Banking,OutWit Hub,Uncompetitive,Germany,15.0
+Application Development,Intermediate,Finance and Banking,InVision,Uncompetitive,India,22.0
+Web Scraping,Intermediate,Construction and Engineering,OutWit Hub,Competitive,South Korea,23.0
+Application Development,Intermediate,Non-Profit and NGOs,Axure,Extremely Competitive,Italy,23.0
+Website Development,Intermediate,Media and Entertainment,Django,Competitive,China,14.0
+Website Development,Expert,Healthcare,Figma,Extremely Competitive,South Korea,25.0
+Application Development,Expert,Technology and SaaS,Affinity Designer,Uncompetitive,United Kingdom,33.0
+Application Development,Expert,Insurance,Figma,Competitive,India,22.0
+Website Development,Intermediate,Non-Profit and NGOs,Ruby on Rails,Extremely Competitive,Argentina,5.0
+Application Development,Intermediate,Telecommunications,Adobe XD,Competitive,Belgium,14.0
+Application Development,Expert,Education,InVision,Competitive,Canada,16.0
+Website Development,Expert,Retail (Non-E-commerce),Ruby on Rails,Extremely Competitive,China,15.0
+Website Development,Entry Level,Hospitality and Travel,WordPress,Competitive,Poland,22.0
+Web Scraping,Entry Level,Non-Profit and NGOs,OutWit Hub,Competitive,India,17.0
+Web Scraping,Intermediate,Finance and Banking,Import.io,Extremely Competitive,India,17.0
+Web Scraping,Expert,Construction and Engineering,Scrapy,Competitive,United States,35.0
+Web Scraping,Expert,Construction and Engineering,OutWit Hub,Uncompetitive,South Korea,23.0
+Website Development,Entry Level,Media and Entertainment,Flutter,Competitive,France,17.0
+Web Scraping,Entry Level,Professional Services,DataMiner,Competitive,India,17.0
+Website Development,Expert,Finance and Banking,Ruby on Rails,Competitive,Belgium,11.0
+Website Development,Entry Level,Insurance,Flutter,Uncompetitive,Germany,18.0
+Website Development,Entry Level,Telecommunications,Angular,Competitive,Australia,8.0
+Website Development,Entry Level,Real Estate,Visual Studio Code,Competitive,Italy,20.0
+Application Development,Intermediate,Healthcare,UXPin,Uncompetitive,United Kingdom,33.0
+Web Scraping,Entry Level,Insurance,OutWit Hub,Competitive,Italy,18.0
+Application Development,Intermediate,Construction and Engineering,Balsamiq,Extremely Competitive,Saudi Arabia,27.0
+Website Development,Intermediate,Telecommunications,Flutter,Competitive,Canada,13.0
+Application Development,Entry Level,Finance and Banking,Marvel,Competitive,China,17.0
+Application Development,Entry Level,Automotive,Figma,Extremely Competitive,Netherlands,25.0
+Web Scraping,Entry Level,Manufacturing and Industrial,ParseHub,Competitive,Poland,21.0
+Website Development,Expert,Real Estate,Next.js,Competitive,Spain,25.0
+Website Development,Intermediate,Professional Services,Express.js,Competitive,China,15.0
+Website Development,Expert,Education,Ruby on Rails,Competitive,Belgium,11.0
+Application Development,Entry Level,Real Estate,Affinity Designer,Competitive,United Kingdom,34.0
+Web Scraping,Intermediate,Media and Entertainment,Scrapy,Uncompetitive,Belgium,8.0
+Application Development,Entry Level,Real Estate,Axure,Competitive,United Kingdom,34.0
+Web Scraping,Entry Level,Hospitality and Travel,Beautiful Soup,Competitive,Poland,21.0
+Application Development,Intermediate,Insurance,Figma,Competitive,Mexico,24.0
+Application Development,Intermediate,Small Business/Local Business,Marvel,Competitive,Switzerland,30.0
+Application Development,Intermediate,Small Business/Local Business,InVision,Competitive,China,17.0
+Web Scraping,Expert,Government,OutWit Hub,Competitive,Netherlands,20.0
+Website Development,Entry Level,Energy and Utilities,Ruby on Rails,Uncompetitive,Australia,10.0
+Application Development,Expert,Finance and Banking,Balsamiq,Competitive,Poland,26.0
+Website Development,Entry Level,Non-Profit and NGOs,Laravel,Extremely Competitive,Australia,8.0
+Application Development,Entry Level,Education,Marvel,Extremely Competitive,Japan,24.0
+Application Development,Entry Level,Retail (Non-E-commerce),Balsamiq,Competitive,United States,40.0
+Website Development,Expert,E-Commerce,Flutter,Competitive,Italy,20.0
+Web Scraping,Intermediate,Technology and SaaS,Scrapy,Competitive,Belgium,9.0
+Web Scraping,Expert,Insurance,DataMiner,Competitive,France,14.0
+Web Scraping,Expert,Real Estate,Scrapy,Uncompetitive,South Africa,22.0
+Application Development,Intermediate,Automotive,Balsamiq,Competitive,Sweden,29.0
+Website Development,Entry Level,Telecommunications,Next.js,Competitive,Israel,19.0
+Website Development,Intermediate,Small Business/Local Business,React.js,Uncompetitive,Argentina,5.0
+Web Scraping,Expert,Professional Services,Beautiful Soup,Competitive,Indonesia,17.0
+Web Scraping,Entry Level,Construction and Engineering,Import.io,Competitive,United Kingdom,28.0
+Website Development,Entry Level,Manufacturing and Industrial,Ruby on Rails,Competitive,China,14.0
+Web Scraping,Expert,Manufacturing and Industrial,Mozenda,Competitive,Thailand,25.0
+Website Development,Entry Level,Non-Profit and NGOs,TypeScript,Competitive,India,18.0
+Web Scraping,Expert,Real Estate,Beautiful Soup,Extremely Competitive,Sweden,24.0
+Web Scraping,Entry Level,Telecommunications,DataMiner,Competitive,France,15.0
+Application Development,Intermediate,Manufacturing and Industrial,InVision,Extremely Competitive,Norway,25.0
+Website Development,Expert,Small Business/Local Business,Flutter,Competitive,Indonesia,19.0
+Application Development,Entry Level,Real Estate,Proto.io,Uncompetitive,Russia,26.0
+Website Development,Intermediate,Personal Blogs/Portfolios,Flutter,Competitive,Germany,17.0
+Web Scraping,Entry Level,Retail (Non-E-commerce),DataMiner,Competitive,United States,31.0
+Website Development,Entry Level,Construction and Engineering,Ruby on Rails,Competitive,France,16.0
+Web Scraping,Intermediate,Retail (Non-E-commerce),ParseHub,Uncompetitive,France,15.0
+Application Development,Expert,Real Estate,Affinity Designer,Competitive,United States,40.0
+Web Scraping,Expert,E-Commerce,Octoparse,Competitive,United Kingdom,28.0
+Web Scraping,Intermediate,Small Business/Local Business,Import.io,Competitive,France,15.0
+Web Scraping,Intermediate,Technology and SaaS,ParseHub,Extremely Competitive,Australia,5.0
+Website Development,Intermediate,Personal Blogs/Portfolios,Next.js,Competitive,Canada,13.0
+Application Development,Expert,Media and Entertainment,Proto.io,Uncompetitive,Sweden,28.0
+Website Development,Intermediate,Finance and Banking,Angular,Uncompetitive,Australia,8.0
+Application Development,Intermediate,Finance and Banking,Figma,Competitive,Netherlands,25.0
+Web Scraping,Intermediate,Professional Services,ParseHub,Extremely Competitive,Germany,15.0
+Web Scraping,Expert,Construction and Engineering,Scrapy,Competitive,United Kingdom,27.0
+Website Development,Entry Level,E-Commerce,Bootstrap,Competitive,Japan,21.0
+Website Development,Entry Level,Construction and Engineering,Figma,Extremely Competitive,Sweden,26.0
+Application Development,Intermediate,Telecommunications,Marvel,Extremely Competitive,Indonesia,22.0
+Website Development,Entry Level,Finance and Banking,Flutter,Extremely Competitive,Belgium,11.0
+Application Development,Entry Level,Retail (Non-E-commerce),Proto.io,Competitive,United Kingdom,32.0
+Website Development,Entry Level,Manufacturing and Industrial,TypeScript,Competitive,China,15.0
+Application Development,Intermediate,Real Estate,Axure,Competitive,United States,35.0
+Application Development,Expert,Professional Services,Axure,Uncompetitive,Italy,23.0
+Application Development,Expert,Healthcare,UXPin,Extremely Competitive,United States,35.0
+Web Scraping,Intermediate,Media and Entertainment,Import.io,Uncompetitive,South Africa,22.0
+Web Scraping,Expert,Government,Scrapy,Competitive,South Korea,22.0
+Web Scraping,Expert,Manufacturing and Industrial,Scrapy,Competitive,India,16.0
+Web Scraping,Entry Level,Manufacturing and Industrial,DataMiner,Competitive,Switzerland,24.0
+Application Development,Entry Level,Professional Services,Balsamiq,Uncompetitive,Japan,24.0
+Website Development,Intermediate,Healthcare,Ruby on Rails,Competitive,China,15.0
+Website Development,Intermediate,Hospitality and Travel,Flutter,Competitive,Germany,17.0
+Web Scraping,Expert,Automotive,ParseHub,Competitive,United States,32.0
+Website Development,Expert,Non-Profit and NGOs,Express.js,Uncompetitive,China,15.0
+Website Development,Intermediate,Real Estate,Next.js,Extremely Competitive,Indonesia,19.0
+Web Scraping,Intermediate,Hospitality and Travel,DataMiner,Competitive,Poland,21.0
+Application Development,Intermediate,Real Estate,InVision,Competitive,Italy,24.0
+Web Scraping,Expert,Real Estate,WebHarvy,Uncompetitive,Sweden,24.0
+Website Development,Entry Level,Government,Express.js,Extremely Competitive,China,15.0
+Application Development,Expert,Manufacturing and Industrial,InVision,Extremely Competitive,Thailand,31.0
+Website Development,Expert,Personal Blogs/Portfolios,Next.js,Uncompetitive,Japan,21.0
+Application Development,Intermediate,Energy and Utilities,Axure,Extremely Competitive,Spain,28.0
+Web Scraping,Expert,Energy and Utilities,OutWit Hub,Competitive,Mexico,19.0
+Website Development,Intermediate,Insurance,Vue.js,Uncompetitive,Argentina,6.0
+Website Development,Entry Level,Hospitality and Travel,Laravel,Uncompetitive,China,15.0
+Website Development,Expert,Automotive,Drupal,Competitive,Spain,25.0
+Website Development,Intermediate,Retail (Non-E-commerce),Express.js,Extremely Competitive,Spain,25.0
+Web Scraping,Entry Level,Manufacturing and Industrial,ParseHub,Competitive,Mexico,20.0
+Website Development,Intermediate,Telecommunications,Laravel,Uncompetitive,Canada,13.0
+Web Scraping,Entry Level,Insurance,ParseHub,Competitive,Canada,11.0
+Website Development,Entry Level,Government,React.js,Competitive,Australia,7.0
+Website Development,Intermediate,Healthcare,Vue.js,Competitive,Austria,10.0
+Website Development,Entry Level,Hospitality and Travel,Laravel,Competitive,Belgium,11.0
+Website Development,Intermediate,E-Commerce,Laravel,Competitive,Canada,13.0
+Application Development,Intermediate,Manufacturing and Industrial,Adobe XD,Competitive,Germany,20.0
+Web Scraping,Intermediate,Small Business/Local Business,OutWit Hub,Extremely Competitive,Germany,15.0
+Application Development,Entry Level,Construction and Engineering,InVision,Competitive,Mexico,25.0
+Website Development,Intermediate,Healthcare,Next.js,Extremely Competitive,Italy,20.0
+Web Scraping,Intermediate,Construction and Engineering,Selenium,Uncompetitive,United States,31.0
+Website Development,Entry Level,Professional Services,Django,Uncompetitive,Brazil,11.0
+Application Development,Intermediate,Energy and Utilities,Figma,Competitive,Indonesia,22.0
+Web Scraping,Expert,Telecommunications,OutWit Hub,Uncompetitive,Switzerland,24.0
+Website Development,Intermediate,Technology and SaaS,React.js,Competitive,Australia,8.0
+Website Development,Expert,Small Business/Local Business,Next.js,Competitive,Mexico,21.0
+Website Development,Expert,Real Estate,TypeScript,Competitive,Germany,17.0
+Web Scraping,Intermediate,Government,Octoparse,Competitive,Germany,15.0
+Application Development,Intermediate,Personal Blogs/Portfolios,Figma,Extremely Competitive,Netherlands,25.0
+Application Development,Expert,Finance and Banking,Marvel,Uncompetitive,Japan,24.0
+Website Development,Intermediate,Education,Ruby on Rails,Competitive,Canada,14.0
+Website Development,Expert,Non-Profit and NGOs,Ruby on Rails,Competitive,Australia,9.0
+Website Development,Intermediate,Media and Entertainment,TypeScript,Competitive,China,15.0
+Application Development,Expert,Retail (Non-E-commerce),Affinity Designer,Uncompetitive,United States,38.0
+Website Development,Expert,Small Business/Local Business,Angular,Competitive,Belgium,11.0
+Application Development,Entry Level,Telecommunications,Balsamiq,Competitive,France,19.0
+Web Scraping,Intermediate,Hospitality and Travel,DataMiner,Competitive,France,14.0
+Web Scraping,Intermediate,Energy and Utilities,Octoparse,Competitive,Germany,16.0
+Application Development,Entry Level,Government,Axure,Uncompetitive,Spain,28.0
+Web Scraping,Expert,Education,DataMiner,Competitive,United States,29.0
+Application Development,Expert,Small Business/Local Business,Axure,Competitive,Indonesia,22.0
+Web Scraping,Intermediate,E-Commerce,Scrapy,Competitive,Germany,16.0
+Application Development,Expert,Professional Services,Figma,Competitive,Indonesia,22.0
+Website Development,Expert,Insurance,Ruby on Rails,Uncompetitive,Germany,17.0
+Web Scraping,Expert,Real Estate,OutWit Hub,Extremely Competitive,United Kingdom,28.0
+Website Development,Intermediate,Non-Profit and NGOs,TypeScript,Uncompetitive,China,15.0
+Website Development,Expert,Healthcare,Visual Studio Code,Competitive,Poland,23.0
+Web Scraping,Entry Level,Small Business/Local Business,Import.io,Competitive,Mexico,19.0
+Application Development,Intermediate,Education,Marvel,Competitive,Netherlands,25.0
+Web Scraping,Entry Level,Retail (Non-E-commerce),Octoparse,Competitive,Mexico,19.0
+Application Development,Expert,Government,UXPin,Extremely Competitive,United Arab Emirates,32.0
+Web Scraping,Expert,Government,ParseHub,Uncompetitive,United Kingdom,28.0
+Web Scraping,Intermediate,Non-Profit and NGOs,Selenium,Uncompetitive,Mexico,19.0
+Application Development,Expert,Non-Profit and NGOs,Marvel,Competitive,Italy,23.0
+Application Development,Expert,Real Estate,Marvel,Extremely Competitive,United States,35.0
+Website Development,Expert,Telecommunications,Angular,Uncompetitive,Brazil,12.0
+Website Development,Intermediate,Retail (Non-E-commerce),Next.js,Competitive,India,18.0
+Website Development,Intermediate,Personal Blogs/Portfolios,TypeScript,Competitive,China,15.0
+Web Scraping,Entry Level,Media and Entertainment,WebHarvy,Competitive,Brazil,10.0
+Website Development,Intermediate,Professional Services,Django,Uncompetitive,Canada,13.0
+Website Development,Entry Level,Retail (Non-E-commerce),Django,Extremely Competitive,Brazil,12.0
+Website Development,Expert,E-Commerce,Flutter,Competitive,India,18.0
+Application Development,Entry Level,Construction and Engineering,Axure,Extremely Competitive,Norway,25.0
+Website Development,Expert,Energy and Utilities,Visual Studio Code,Competitive,Norway,22.0
+Web Scraping,Entry Level,Finance and Banking,WebHarvy,Extremely Competitive,France,14.0
+Web Scraping,Intermediate,Retail (Non-E-commerce),Import.io,Competitive,United States,29.0
+Website Development,Entry Level,Government,Bootstrap,Extremely Competitive,France,17.0
+Application Development,Expert,Technology and SaaS,Adobe XD,Competitive,Italy,23.0
+Application Development,Expert,Personal Blogs/Portfolios,UXPin,Competitive,United States,34.0
+Website Development,Expert,Energy and Utilities,Bootstrap,Uncompetitive,India,18.0
+Website Development,Intermediate,Healthcare,Visual Studio Code,Competitive,Italy,20.0
+Application Development,Expert,E-Commerce,Proto.io,Uncompetitive,Switzerland,30.0
+Web Scraping,Intermediate,Manufacturing and Industrial,Octoparse,Competitive,France,14.0
+Web Scraping,Entry Level,Hospitality and Travel,OutWit Hub,Competitive,Sweden,24.0
+Web Scraping,Expert,Energy and Utilities,Octoparse,Competitive,United Arab Emirates,26.0
+Web Scraping,Entry Level,Real Estate,Selenium,Uncompetitive,Turkey,26.0
+Website Development,Expert,Healthcare,Express.js,Extremely Competitive,Switzerland,27.0
+Application Development,Entry Level,Healthcare,UXPin,Competitive,United States,35.0
+Web Scraping,Intermediate,Personal Blogs/Portfolios,Octoparse,Competitive,Thailand,25.0
+Website Development,Entry Level,Manufacturing and Industrial,Ruby on Rails,Competitive,Australia,7.0
+Website Development,Expert,E-Commerce,WordPress,Competitive,Indonesia,19.0
+Web Scraping,Entry Level,Hospitality and Travel,Mozenda,Competitive,Thailand,25.0
+Web Scraping,Entry Level,Personal Blogs/Portfolios,ParseHub,Competitive,Mexico,19.0
+Web Scraping,Intermediate,Personal Blogs/Portfolios,DataMiner,Extremely Competitive,Sweden,24.0
+Web Scraping,Intermediate,Telecommunications,Beautiful Soup,Competitive,Germany,16.0
+Application Development,Entry Level,Healthcare,InVision,Competitive,Thailand,30.0
+Application Development,Intermediate,Media and Entertainment,Adobe XD,Competitive,France,20.0
+Website Development,Intermediate,Finance and Banking,Django,Competitive,Belgium,11.0
+Website Development,Intermediate,Automotive,Bootstrap,Uncompetitive,Mexico,21.0
+Website Development,Intermediate,Energy and Utilities,Express.js,Competitive,China,14.0
+Application Development,Intermediate,Insurance,Balsamiq,Competitive,South Korea,28.0
+Website Development,Intermediate,Non-Profit and NGOs,Django,Competitive,Argentina,2.0
+Website Development,Entry Level,Insurance,Flutter,Competitive,Belgium,11.0
+Web Scraping,Intermediate,Real Estate,DataMiner,Extremely Competitive,United Kingdom,27.0
+Website Development,Intermediate,Insurance,Node.js,Competitive,Argentina,3.0
+Web Scraping,Intermediate,Small Business/Local Business,Octoparse,Competitive,Germany,15.0
+Website Development,Entry Level,Manufacturing and Industrial,Ruby on Rails,Competitive,Argentina,5.0
+Web Scraping,Expert,Retail (Non-E-commerce),Octoparse,Competitive,United States,30.0
+Web Scraping,Entry Level,Insurance,Selenium,Uncompetitive,United Kingdom,28.0
+Website Development,Intermediate,Manufacturing and Industrial,TypeScript,Competitive,China,14.0
+Website Development,Entry Level,Automotive,TypeScript,Competitive,Canada,13.0
+Website Development,Intermediate,Manufacturing and Industrial,Laravel,Uncompetitive,Brazil,11.0
+Application Development,Entry Level,Healthcare,Proto.io,Uncompetitive,United States,37.0
+Application Development,Intermediate,Energy and Utilities,Adobe XD,Uncompetitive,Australia,11.0
+Web Scraping,Entry Level,Finance and Banking,WebHarvy,Competitive,Austria,8.0
+Web Scraping,Expert,E-Commerce,DataMiner,Competitive,South Korea,23.0
+Application Development,Intermediate,Government,Balsamiq,Competitive,South Africa,27.0
+Web Scraping,Expert,Automotive,Selenium,Competitive,Poland,20.0
+Application Development,Entry Level,E-Commerce,Axure,Competitive,Japan,24.0
+Website Development,Entry Level,Professional Services,TypeScript,Competitive,India,19.0
+Web Scraping,Intermediate,Professional Services,Beautiful Soup,Uncompetitive,Norway,20.0
+Website Development,Expert,Finance and Banking,Flutter,Competitive,France,16.0
+Website Development,Intermediate,Hospitality and Travel,Ruby on Rails,Competitive,Brazil,12.0
+Web Scraping,Entry Level,Retail (Non-E-commerce),ParseHub,Uncompetitive,South Africa,22.0
+Application Development,Expert,Hospitality and Travel,Proto.io,Extremely Competitive,United States,34.0
+Website Development,Intermediate,Healthcare,Express.js,Competitive,Spain,25.0
+Application Development,Intermediate,Government,Axure,Extremely Competitive,Saudi Arabia,27.0
+Website Development,Expert,Professional Services,Angular,Extremely Competitive,Canada,13.0
+Application Development,Intermediate,Technology and SaaS,Axure,Competitive,India,21.0
+Website Development,Expert,Hospitality and Travel,Next.js,Competitive,Poland,23.0
+Application Development,Intermediate,Professional Services,Figma,Extremely Competitive,Canada,16.0
+Website Development,Entry Level,Small Business/Local Business,Flutter,Competitive,Canada,13.0
+Application Development,Expert,Professional Services,InVision,Competitive,Saudi Arabia,27.0
+Website Development,Intermediate,Personal Blogs/Portfolios,Ruby on Rails,Uncompetitive,Germany,17.0
+Web Scraping,Intermediate,Hospitality and Travel,Selenium,Competitive,Israel,18.0
+Website Development,Entry Level,Non-Profit and NGOs,Vue.js,Competitive,Belgium,10.0
+Web Scraping,Entry Level,Retail (Non-E-commerce),DataMiner,Uncompetitive,Japan,19.0
+Web Scraping,Intermediate,Media and Entertainment,Selenium,Uncompetitive,China,14.0
+Website Development,Expert,Hospitality and Travel,Flutter,Competitive,Belgium,11.0
+Application Development,Intermediate,Small Business/Local Business,Marvel,Competitive,Switzerland,29.0
+Web Scraping,Expert,Finance and Banking,Octoparse,Competitive,India,16.0
+Website Development,Intermediate,Finance and Banking,Angular,Competitive,Canada,13.0
+Web Scraping,Entry Level,Insurance,DataMiner,Competitive,China,12.0
+Website Development,Expert,Personal Blogs/Portfolios,Express.js,Competitive,Indonesia,19.0
+Application Development,Intermediate,Telecommunications,Proto.io,Competitive,Israel,23.0
+Website Development,Entry Level,Manufacturing and Industrial,Flutter,Competitive,Netherlands,22.0
+Application Development,Expert,Insurance,Figma,Competitive,Mexico,24.0
+Web Scraping,Entry Level,Energy and Utilities,OutWit Hub,Competitive,Sweden,23.0
+Web Scraping,Entry Level,Media and Entertainment,ParseHub,Competitive,Russia,21.0
+Web Scraping,Intermediate,Technology,Python,Uncompetitive,United States,10.0
+Website Development,Intermediate,Technology,Python,Uncompetitive,India,18.0
+Web Scraping,Expert,Technology,Excel,Competitive,United States,40.0
+Website Development,Intermediate,Technology,Python,Competitive,United States,50.0
+Website Development,Intermediate,Technology,MongoDB,Competitive,Egypt,15.0
+Web Scraping,Intermediate,Technology,Excel,Competitive,New Zealand,6.0
+Website Development,Intermediate,Technology,HTML,Uncompetitive,Philippines,5.0
+Web Scraping,Intermediate,Technology,Python,Competitive,United States,8.0
+Website Development,Intermediate,Technology,Git,Competitive,Australia,16.0
+Web Scraping,Expert,Technology,Python,Competitive,United States,10.0
+Web Scraping,Expert,Healthcare,Python,Extremely Competitive,United States,5.0
+Web Scraping,Expert,Technology,PHP,Competitive,Australia,30.0
+Website Development,Expert,Technology,HTML,Extremely Competitive,United States,10.0
+Web Scraping,Intermediate,Retail,Excel,Uncompetitive,United States,8.0
+Web Scraping,Intermediate,Retail,SQL,Competitive,United States,5.0
+Website Development,Expert,Technology,SQL,Extremely Competitive,Iceland,30.0
+Web Scraping,Intermediate,Technology,Python,Competitive,Israel,8.0
+Web Scraping,Expert,Retail,Git,Competitive,Canada,20.0
+Web Scraping,Intermediate,Technology,Python,Uncompetitive,Albania,5.0
+Web Scraping,Expert,Technology,Python,Competitive,United States,20.0
+Web Scraping,Intermediate,Finance,Python,Competitive,Sweden,8.0
+Web Scraping,Expert,Technology,MongoDB,Competitive,United States,30.0
+Web Scraping,Expert,Technology,SQL,Competitive,United States,40.0
+Web Scraping,Intermediate,Entertainment,HTML,Competitive,Brazil,15.0
+Website Development,Expert,Technology,JavaScript,Competitive,United States,25.0
+Website Development,Intermediate,Technology,Python,Competitive,Canada,15.0
+Web Scraping,Expert,Retail,Python,Uncompetitive,United States,68.0
+Website Development,Intermediate,Technology,WordPress,Competitive,Canada,10.0
+Website Development,Intermediate,Technology,SQL,Competitive,United States,30.0
+Web Scraping,Expert,Technology,JavaScript,Extremely Competitive,United States,15.0
+Website Development,Expert,Technology,MongoDB,Competitive,New Zealand,8.0
+Web Scraping,Intermediate,Technology,React,Competitive,United States,30.0
+Website Development,Intermediate,Technology,Python,Competitive,United Kingdom,20.0
+Website Development,Intermediate,Technology,Python,Competitive,United States,40.0
+Website Development,Intermediate,Technology,Python,Competitive,Spain,18.0
+Web Scraping,Entry Level,Technology,HTML,Extremely Competitive,United States,5.0
+Website Development,Intermediate,Technology,Python,Competitive,Spain,16.0
+Web Scraping,Expert,Technology,SQL,Uncompetitive,United States,8.0
+Web Scraping,Expert,Technology,Python,Competitive,Belgium,20.0
+Website Development,Entry Level,Technology,HTML,Competitive,United States,5.0
+Website Development,Entry Level,Technology,HTML,Competitive,United States,5.0
+Web Scraping,Expert,Technology,Python,Uncompetitive,United States,10.0
+Web Scraping,Intermediate,Technology,Python,Competitive,United States,8.0
+Website Development,Expert,Technology,SQL,Competitive,United States,40.0
+Website Development,Intermediate,Technology,JavaScript,Uncompetitive,United States,20.0
+Web Scraping,Intermediate,Technology,Python,Competitive,United States,8.0
+Web Scraping,Intermediate,Real Estate,Python,Competitive,United States,8.0
+Website Development,Expert,Technology,SQL,Competitive,United States,15.0
+Website Development,Intermediate,Technology,HTML,Competitive,United States,50.0
+Website Development,Expert,Technology,AWS,Competitive,United States,100.0
+Website Development,Expert,Technology,SQL,Uncompetitive,United States,50.0
+Website Development,Intermediate,Technology,WordPress,Competitive,United States,5.0
+Web Scraping,Expert,Technology,Python,Uncompetitive,Pakistan,3.0
+Web Scraping,Expert,Technology,JavaScript,Competitive,United States,25.0
+Web Scraping,Intermediate,Technology,C#,Extremely Competitive,United States,25.0
+Web Scraping,Expert,Retail,Python,Competitive,United States,20.0
+Web Scraping,Expert,Technology,Python,Competitive,United States,20.0
+Web Scraping,Intermediate,Technology,SQL,Competitive,Greece,15.0
+Website Development,Expert,Technology,HTML,Competitive,United Arab Emirates,25.0
+Web Scraping,Intermediate,Entertainment,Python,Competitive,Kuwait,8.0
+Website Development,Intermediate,Technology,Python,Competitive,United States,20.0
+Website Development,Intermediate,Technology,Django,Competitive,Australia,15.0
+Website Development,Expert,Technology,Python,Competitive,United States,60.0
+Web Scraping,Intermediate,Real Estate,Excel,Competitive,Australia,8.0
+Web Scraping,Intermediate,Technology,Python,Uncompetitive,United States,6.0
+Website Development,Expert,Technology,React,Extremely Competitive,United States,40.0
+Web Scraping,Expert,Technology,Python,Competitive,United States,20.0
+Web Scraping,Expert,Technology,TensorFlow,Competitive,Australia,20.0
+Website Development,Intermediate,Technology,CSS,Extremely Competitive,Australia,15.0
+Web Scraping,Expert,Manufacturing,SQL,Competitive,United States,5.0
+Web Scraping,Expert,Technology,Excel,Competitive,United States,3.0
+Web Scraping,Expert,Technology,Python,Competitive,Australia,15.0
+Web Scraping,Expert,Manufacturing,Python,Competitive,United Kingdom,20.0
+Web Scraping,Intermediate,Real Estate,SQL,Competitive,Saudi Arabia,25.0
+Web Scraping,Expert,Education,Python,Competitive,United States,10.0
+Website Development,Expert,Technology,SQL,Competitive,Israel,40.0
+Website Development,Expert,Technology,CSS,Competitive,Italy,10.0
+Web Scraping,Intermediate,Education,Excel,Uncompetitive,United States,25.0
+Web Scraping,Expert,Healthcare,AWS,Competitive,United Kingdom,5.0
+Website Development,Expert,Technology,HTML,Extremely Competitive,Germany,20.0
+Website Development,Intermediate,Retail,Vue.js,Competitive,United States,15.0
+Website Development,Intermediate,Technology,SQL,Competitive,Australia,20.0
+Web Scraping,Expert,Real Estate,Excel,Competitive,Australia,20.0
+Web Scraping,Expert,Technology,Python,Competitive,India,20.0
+Website Development,Intermediate,Technology,HTML,Extremely Competitive,Canada,15.0
+Web Scraping,Intermediate,Retail,HTML,Competitive,United States,25.0
+Web Scraping,Intermediate,Technology,Excel,Competitive,United Kingdom,4.0
+Web Scraping,Expert,Technology,Pandas,Uncompetitive,Pakistan,10.0
+Web Scraping,Intermediate,Retail,Python,Competitive,United Kingdom,8.0
+Web Scraping,Intermediate,Technology,PHP,Competitive,Poland,10.0
+Web Scraping,Expert,Real Estate,Excel,Extremely Competitive,United States,35.0
+Web Scraping,Intermediate,Technology,HTML,Competitive,France,8.0
+Web Scraping,Expert,Education,Python,Competitive,United States,25.0
+Website Development,Intermediate,Technology,Node.js,Competitive,Ireland,20.0
+Web Scraping,Intermediate,Technology,JavaScript,Competitive,United States,10.0
+Website Development,Intermediate,Technology,Node.js,Competitive,Canada,15.0
+Web Scraping,Intermediate,Technology,Python,Competitive,Hong Kong,5.0
+Web Scraping,Intermediate,Manufacturing,Excel,Competitive,United States,8.0
+Web Scraping,Expert,Technology,PHP,Competitive,United States,10.0
+Website Development,Expert,Technology,MongoDB,Competitive,United States,25.0
+Web Scraping,Expert,Technology,SQL,Extremely Competitive,Australia,35.0
+Web Scraping,Entry Level,Education,Excel,Competitive,United States,5.0
+Website Development,Expert,Technology,Ruby,Uncompetitive,Uruguay,30.0
+Web Scraping,Entry Level,Education,Excel,Competitive,United States,20.0
+Web Scraping,Intermediate,Technology,SQL,Competitive,Canada,5.0
+Website Development,Intermediate,Technology,HTML,Extremely Competitive,United States,40.0
+Web Scraping,Expert,Technology,Python,Competitive,United Arab Emirates,18.0
+Web Scraping,Intermediate,Finance,Python,Competitive,United States,20.0
+Web Scraping,Entry Level,Technology,Node.js,Uncompetitive,Switzerland,10.0
+Website Development,Intermediate,Technology,Python,Competitive,United Kingdom,16.0
+Web Scraping,Expert,Technology,Excel,Competitive,United Kingdom,18.0
+Web Scraping,Entry Level,Transportation,PHP,Competitive,Turkey,5.0
+Website Development,Entry Level,Technology,HTML,Competitive,United States,4.0
+Web Scraping,Intermediate,Technology,SQL,Competitive,Australia,10.0
+Website Development,Expert,Technology,SQL,Competitive,United States,9.0
+Website Development,Expert,Retail,SQL,Competitive,United States,20.0
+Website Development,Intermediate,Technology,SQL,Competitive,United States,30.0
+Website Development,Intermediate,Technology,Django,Extremely Competitive,Czech Republic,10.0
+Web Scraping,Intermediate,Technology,Python,Competitive,Netherlands,8.0
+Website Development,Intermediate,Technology,CSS,Competitive,United States,15.0
+Web Scraping,Expert,Entertainment,Python,Competitive,Germany,10.0
+Website Development,Intermediate,Technology,HTML,Competitive,Israel,5.0
+Website Development,Intermediate,Technology,Node.js,Competitive,United States,40.0
+Web Scraping,Entry Level,Retail,SQL,Competitive,Canada,5.0
+Website Development,Entry Level,Technology,Python,Competitive,Germany,12.0
+Website Development,Intermediate,Technology,Django,Competitive,Czech Republic,20.0
+Website Development,Intermediate,Technology,JavaScript,Competitive,United States,10.0
+Web Scraping,Expert,Technology,Java,Uncompetitive,United States,5.0
+Website Development,Intermediate,Technology,Vue.js,Competitive,United States,16.0
+Website Development,Entry Level,Technology,Python,Competitive,United States,60.0
+Web Scraping,Intermediate,Technology,Python,Competitive,United States,8.0
+Web Scraping,Expert,Retail,Python,Competitive,United States,18.0
+Website Development,Intermediate,Technology,HTML,Competitive,Germany,8.0
+Web Scraping,Entry Level,Entertainment,Excel,Competitive,Australia,5.0
+Web Scraping,Expert,Finance,Python,Competitive,United States,28.0
+Web Scraping,Entry Level,Education,Excel,Competitive,United States,5.0
+Website Development,Expert,Technology,SQL,Extremely Competitive,Canada,25.0
+Web Scraping,Intermediate,Technology,Angular,Uncompetitive,United States,5.0
+Website Development,Intermediate,Technology,React,Competitive,United States,16.0
+Web Scraping,Entry Level,Technology,Excel,Competitive,United States,5.0
+Web Scraping,Entry Level,Education,Excel,Competitive,United States,5.0
+Website Development,Expert,Technology,HTML,Competitive,United States,25.0
+Web Scraping,Expert,Technology,Python,Competitive,United States,25.0
+Website Development,Expert,Technology,CSS,Competitive,Hong Kong,25.0
+Website Development,Expert,Technology,Ruby,Competitive,United States,22.0
+Web Scraping,Expert,Legal,Excel,Competitive,United States,18.0
+Web Scraping,Expert,Technology,HTML,Competitive,United States,7.0
+Website Development,Intermediate,Technology,HTML,Extremely Competitive,United Kingdom,40.0
+Web Scraping,Expert,Technology,Pandas,Uncompetitive,India,10.0
+Website Development,Intermediate,Technology,SQL,Competitive,United States,20.0
+Website Development,Intermediate,Technology,SQL,Competitive,Switzerland,15.0
+Website Development,Intermediate,Technology,Python,Competitive,Nigeria,15.0
+Web Scraping,Entry Level,Marketing,JavaScript,Competitive,France,5.0
+Web Scraping,Intermediate,Technology,Excel,Competitive,United States,8.0
+Web Scraping,Expert,Technology,Python,Competitive,United States,4.0
+Website Development,Expert,Technology,SQL,Competitive,United States,70.0
+Website Development,Expert,Technology,JavaScript,Competitive,United States,65.0
+Website Development,Expert,Technology,HTML,Competitive,United States,50.0
+Web Scraping,Intermediate,Technology,Python,Competitive,United Kingdom,8.0
+Website Development,Expert,Technology,JavaScript,Competitive,United States,25.0
+Web Scraping,Intermediate,Retail,JavaScript,Competitive,United Kingdom,8.0
+Web Scraping,Intermediate,Technology,Vue.js,Competitive,United States,40.0
+Web Scraping,Entry Level,Education,Python,Competitive,United States,12.0
+Website Development,Intermediate,Technology,SQL,Competitive,United States,30.0
+Website Development,Expert,Technology,C#,Competitive,Switzerland,40.0
+Website Development,Expert,Technology,HTML,Competitive,Canada,5.0
+Website Development,Expert,Technology,React,Competitive,Israel,40.0
+Website Development,Expert,Technology,Python,Uncompetitive,United States,20.0
+Website Development,Expert,Technology,HTML,Extremely Competitive,France,25.0
+Website Development,Expert,Technology,React,Competitive,Australia,15.0
+Website Development,Intermediate,Technology,C#,Competitive,United States,25.0
+Web Scraping,Intermediate,Technology,HTML,Competitive,France,15.0
+Website Development,Expert,Technology,C#,Competitive,Norway,30.0
+Website Development,Intermediate,Technology,JavaScript,Uncompetitive,United States,3.0
+Website Development,Expert,Technology,Flutter,Competitive,United States,30.0
+Website Development,Expert,Technology,HTML,Competitive,Dominican Republic,15.0
+Website Development,Intermediate,Technology,HTML,Uncompetitive,United Kingdom,15.0
+Website Development,Expert,Entertainment,HTML,Uncompetitive,United Arab Emirates,20.0
+Website Development,Intermediate,Technology,SQL,Uncompetitive,United States,35.0
+Website Development,Intermediate,Retail,WordPress,Uncompetitive,France,16.0
+Website Development,Intermediate,Technology,HTML,Competitive,Pakistan,29.0
+Website Development,Intermediate,Technology,HTML,Uncompetitive,United Kingdom,15.0
+Website Development,Expert,Technology,WordPress,Competitive,United States,20.0
+Website Development,Intermediate,Technology,SQL,Uncompetitive,Turkey,50.0
+Website Development,Expert,Technology,Vue.js,Competitive,Netherlands,25.0
+Website Development,Intermediate,Hospitality,WordPress,Competitive,United States,15.0
+Website Development,Expert,Technology,HTML,Competitive,Dominican Republic,15.0
+Website Development,Intermediate,Technology,WordPress,Competitive,United States,10.0
+Website Development,Intermediate,Technology,HTML,Competitive,Puerto Rico,15.0
+Website Development,Intermediate,Retail,HTML,Competitive,Canada,7.0
+Website Development,Intermediate,Finance,HTML,Competitive,Lebanon,10.0
+Website Development,Expert,Technology,CSS,Competitive,United States,40.0
+Website Development,Expert,Technology,HTML,Competitive,Mexico,45.0
+Website Development,Expert,Retail,PHP,Competitive,Germany,25.0
+Website Development,Expert,Technology,HTML,Competitive,Australia,37.5
+Website Development,Intermediate,Technology,HTML,Competitive,Pakistan,20.0
+Website Development,Intermediate,Technology,CSS,Competitive,United States,5.0
+Website Development,Intermediate,Technology,HTML,Competitive,United States,25.0
+Website Development,Expert,Technology,HTML,Competitive,United States,25.0
+Website Development,Expert,Technology,CSS,Competitive,Malaysia,25.0
+Website Development,Intermediate,Technology,WordPress,Competitive,Ireland,15.0
+Website Development,Intermediate,Retail,HTML,Uncompetitive,United States,25.0
+Website Development,Entry Level,Manufacturing,WordPress,Uncompetitive,Iceland,15.0
+Website Development,Intermediate,Technology,HTML,Competitive,Germany,5.0
+Website Development,Intermediate,Technology,HTML,Competitive,Pakistan,15.0
+Website Development,Intermediate,Technology,React,Extremely Competitive,United States,20.0
+Website Development,Intermediate,Technology,PHP,Competitive,Kenya,5.0
+Website Development,Expert,Retail,PHP,Competitive,Germany,30.0
+Website Development,Intermediate,Technology,WordPress,Competitive,United States,6.0
+Website Development,Intermediate,Technology,HTML,Uncompetitive,India,15.0
+Website Development,Expert,Technology,Django,Competitive,United States,40.0
+Website Development,Expert,Technology,CSS,Competitive,Germany,30.0
+Website Development,Expert,Technology,HTML,Competitive,Canada,30.0
+Website Development,Expert,Real Estate,Django,Competitive,United States,25.0
+Website Development,Expert,Technology,HTML,Competitive,United States,60.0
+Website Development,Intermediate,Technology,HTML,Uncompetitive,United States,30.0
+Website Development,Intermediate,Technology,CSS,Competitive,United States,15.0
+Website Development,Intermediate,Marketing,WordPress,Uncompetitive,United States,25.0
+Website Development,Intermediate,Technology,WordPress,Competitive,Germany,15.0
+Website Development,Expert,Technology,SQL,Competitive,Canada,25.0
+Website Development,Entry Level,Technology,HTML,Competitive,New Zealand,12.0
+Website Development,Intermediate,Technology,CSS,Competitive,United States,15.0
+Website Development,Intermediate,Technology,Git,Competitive,Romania,16.0
+Website Development,Intermediate,Technology,Angular,Competitive,India,15.0
+Website Development,Intermediate,Entertainment,WordPress,Extremely Competitive,United States,35.0
+Website Development,Intermediate,Technology,CSS,Competitive,Spain,15.0
+Website Development,Intermediate,Technology,MongoDB,Competitive,India,5.0
+Website Development,Intermediate,Technology,Git,Extremely Competitive,Saudi Arabia,8.0
+Website Development,Expert,Technology,HTML,Competitive,Germany,3.0
+Website Development,Entry Level,Technology,HTML,Competitive,United States,35.0
+Website Development,Intermediate,Technology,HTML,Competitive,United States,25.0
+Website Development,Expert,Technology,Node.js,Competitive,United States,40.0
+Web Scraping,Expert,Technology,SQL,Competitive,Sweden,30.0
+Website Development,Intermediate,Technology,CSS,Extremely Competitive,United Kingdom,30.0
+Website Development,Expert,Technology,React,Competitive,United States,15.0
+Website Development,Expert,Technology,WordPress,Competitive,Switzerland,10.0
+Website Development,Intermediate,Technology,HTML,Competitive,United States,15.0
+Website Development,Intermediate,Retail,WordPress,Competitive,United Kingdom,15.0
+Website Development,Expert,Technology,CSS,Competitive,United States,65.0
+Website Development,Expert,Technology,Ruby,Competitive,Netherlands,40.0
+Website Development,Expert,Technology,React,Competitive,India,10.0
+Website Development,Intermediate,Technology,HTML,Competitive,Germany,10.0
+Website Development,Intermediate,Technology,PHP,Uncompetitive,United Kingdom,15.0
+Website Development,Intermediate,Retail,PHP,Competitive,United Kingdom,15.0
+Website Development,Intermediate,Technology,CSS,Competitive,India,15.0
+Website Development,Intermediate,Technology,PHP,Competitive,India,15.0
+Website Development,Intermediate,Retail,SQL,Competitive,United States,15.0
+Website Development,Intermediate,Technology,HTML,Competitive,India,15.0
+Website Development,Expert,Retail,SQL,Uncompetitive,Australia,10.0
+Website Development,Expert,Technology,Django,Competitive,Estonia,30.0
+Website Development,Intermediate,Technology,HTML,Competitive,India,10.0
+Website Development,Intermediate,Education,SQL,Competitive,Spain,15.0
+Website Development,Expert,Technology,SQL,Extremely Competitive,United States,25.0
+Website Development,Intermediate,Technology,HTML,Competitive,Spain,16.0
+Website Development,Expert,Technology,CSS,Competitive,United States,5.0
+Website Development,Intermediate,Technology,SQL,Competitive,Australia,10.0
+Website Development,Entry Level,Technology,WordPress,Competitive,India,3.0
+Website Development,Expert,Technology,HTML,Competitive,United States,40.0
+Website Development,Expert,Technology,WordPress,Competitive,Canada,15.0
+Website Development,Expert,Technology,HTML,Uncompetitive,United States,20.0
+Website Development,Intermediate,Technology,MongoDB,Competitive,India,3.0
+Website Development,Expert,Retail,WordPress,Competitive,United States,10.0
+Website Development,Intermediate,Technology,HTML,Competitive,Australia,10.0
+Website Development,Intermediate,Retail,WordPress,Competitive,United States,10.0
+Website Development,Expert,Technology,HTML,Competitive,United States,35.0
+Website Development,Expert,Technology,SQL,Competitive,Singapore,10.0
+Website Development,Entry Level,Technology,HTML,Competitive,Egypt,12.0
+Website Development,Intermediate,Retail,HTML,Competitive,United States,15.0
+Website Development,Intermediate,Technology,HTML,Competitive,United States,40.0
+Website Development,Intermediate,Technology,SQL,Competitive,United States,5.0
+Website Development,Expert,Technology,Flutter,Extremely Competitive,United States,25.0
+Website Development,Intermediate,Technology,HTML,Competitive,Australia,17.0
+Website Development,Intermediate,Healthcare,HTML,Competitive,United States,5.0
+Website Development,Intermediate,Technology,HTML,Uncompetitive,Australia,10.0
+Website Development,Expert,Technology,CSS,Extremely Competitive,Singapore,15.0
+Website Development,Expert,Technology,HTML,Extremely Competitive,United States,25.0
+Website Development,Expert,Technology,HTML,Competitive,United States,65.0
+Website Development,Expert,Technology,React,Competitive,United States,24.0
+Website Development,Intermediate,Marketing,HTML,Extremely Competitive,United States,15.0
+Website Development,Expert,Technology,HTML,Competitive,United States,33.0
+Website Development,Intermediate,Technology,HTML,Extremely Competitive,Netherlands,13.0
+Website Development,Expert,Technology,MongoDB,Competitive,United States,25.0
+Website Development,Intermediate,Technology,HTML,Competitive,United Kingdom,15.0
+Website Development,Expert,Technology,Python,Uncompetitive,Japan,5.0
+Website Development,Expert,Technology,Python,Uncompetitive,Japan,5.0
+Website Development,Expert,Retail,SQL,Competitive,United States,60.0
+Website Development,Expert,Technology,Python,Uncompetitive,Japan,5.0
+Website Development,Intermediate,Technology,PHP,Competitive,Pakistan,15.0
+Website Development,Intermediate,Technology,HTML,Uncompetitive,Costa Rica,11.0
+Website Development,Expert,Technology,Firebase,Competitive,United States,25.0
+Website Development,Intermediate,Technology,HTML,Competitive,Australia,17.0
+Website Development,Intermediate,Entertainment,MongoDB,Competitive,Australia,15.0
+Website Development,Expert,Technology,React,Extremely Competitive,United States,25.0
+Website Development,Intermediate,Technology,Flutter,Competitive,United States,15.0
+Website Development,Expert,Technology,Node.js,Competitive,United States,5.0
+Website Development,Intermediate,Entertainment,HTML,Uncompetitive,United States,3.0
+Website Development,Intermediate,Technology,SQL,Uncompetitive,United Kingdom,15.0
+Website Development,Intermediate,Marketing,WordPress,Competitive,United States,5.0
+Website Development,Expert,Technology,HTML,Competitive,Australia,20.0
+Website Development,Intermediate,Retail,MongoDB,Competitive,United States,40.0

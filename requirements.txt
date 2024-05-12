@@ -2,4 +2,5 @@ numpy==1.25.2
 pandas==2.0.3
 scikit-learn==1.2.2
 joblib==1.4.2
-streamlit  # You didn't specify a version for Streamlit, so it will install the latest.
+streamlit==1.2.0
+

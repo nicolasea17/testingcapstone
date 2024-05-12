@@ -2,9 +2,6 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-pip install -r requirements.txt
-
-
 # Function to load the model safely
 def load_model(path):
     try:

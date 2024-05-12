@@ -1,6 +1,12 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import logging
+import sklearn
+import numpy as np
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Function to load the model safely
 def load_model(path):
@@ -8,6 +14,7 @@ def load_model(path):
         return joblib.load(path)
     except Exception as e:
         st.error(f"Failed to load the model. Make sure the model path is correct and the environment is compatible. Error: {e}")
+        logging.error(f"Failed to load the model from {path}. Error: {e}")
         return None
 
 # Define the unique entries for categorical inputs
@@ -45,6 +52,13 @@ client_country_options = ['Canada', 'Indonesia', 'Germany', 'Australia', 'United
 # Load the model
 model = load_model('random_forest_hourly_rate_model.joblib')
 
+# Print library versions in the app for diagnostic purposes
+st.sidebar.write("### Library Versions")
+st.sidebar.write(f"Scikit-Learn: {sklearn.__version__}")
+st.sidebar.write(f"Numpy: {np.__version__}")
+st.sidebar.write(f"Pandas: {pd.__version__}")
+st.sidebar.write(f"Joblib: {joblib.__version__}")
+
 # Streamlit form for user inputs
 st.title('Hourly Rate Prediction App')
 if model:
@@ -69,3 +83,4 @@ if model:
             st.write(f"The predicted hourly rate is ${prediction[0]:.2f}")
         except Exception as e:
             st.error(f"An error occurred during prediction. Error: {e}")
+            logging.error(f"Prediction failed. Error: {e}")
